@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applies on 美国技术留学</title>
+    <link>https://studyainc.github.io/studyaweb/apply/index.xml</link>
+    <description>Recent content in Applies on 美国技术留学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>版权所有 Studya.US</copyright>
+    <lastBuildDate>Sat, 04 Jun 2016 21:07:13 +0100</lastBuildDate>
+    <atom:link href="https://studyainc.github.io/studyaweb/apply/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>现在申请</title>
+      <link>https://studyainc.github.io/studyaweb/apply/</link>
+      <pubDate>Sat, 04 Jun 2016 21:07:13 +0100</pubDate>
+      
+      <guid>https://studyainc.github.io/studyaweb/apply/</guid>
+      <description>
+
+&lt;h2 id=&#34;直接申请&#34;&gt;直接申请&lt;/h2&gt;
+
+&lt;p&gt;点击“现在申请”直接开始申请：
+&lt;!-- &lt;a href=&#34;http://itu.edu/apply-online-now/?aid=RichardLi&amp;amp%3Bcid=web&#34;&gt;ITU 国际科技大学&lt;/a&gt; --&gt;
+&lt;div class=&#34;embed itu&#34;&gt;
+&lt;style&gt;
+.button {
+    margin: 10px;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font: Arial, sans-serif;
+    font-size:larger;
+}
+&lt;/style&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;a href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;button&#34;&gt;[&gt;现在申请]&lt;/a&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;提交信息-可选&#34;&gt;提交信息（可选）&lt;/h2&gt;
+
+&lt;p&gt;我们将使用这些信息，帮助您协助评估、追踪进度、入学接待等事宜。您的信息将被严格保密！
+&lt;!-- [Apply](https://form.jotform.com/61816942602153) --&gt;
+&lt;div class=&#34;embed jotform&#34;&gt;
+&lt;iframe class=&#34;jotform&#34; id=&#34;ifm&#34; type=&#34;text/html&#34; height=&#34;680&#34; src=&#34;https://form.jotform.com/61937103857158&#34; allowfullscreen frameborder=&#34;2&#34;&gt;
+&lt;/iframe&gt;
+&lt;script&gt;
+  window.onresize = resizeframe;
+  window.onload = resizeframe;
+  function resizeframe() {
+    resizeIframeWidth(document.getElementById(&#39;ifm&#39;));
+  }
+  function resizeIframeWidth(e){
+    
+    e.width = (e.parentElement.scrollWidth) +&#39;px&#39;;
+  }
+&lt;/script&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
