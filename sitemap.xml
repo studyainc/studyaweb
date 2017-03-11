@@ -2,108 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.studya.us/</loc>
+    <loc>/</loc>
     <lastmod>2016-12-08T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/getting-started/</loc>
+    <loc>/getting-started/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/adding-content/</loc>
+    <loc>/adding-content/</loc>
     <lastmod>2016-05-29T19:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/adding-content/software-engineering/</loc>
+    <loc>/adding-content/software-engineering/</loc>
     <lastmod>2016-06-03T15:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/adding-content/computer-engineering/</loc>
+    <loc>/adding-content/computer-engineering/</loc>
     <lastmod>2016-06-03T14:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/adding-content/computer-science/</loc>
+    <loc>/adding-content/computer-science/</loc>
     <lastmod>2016-06-03T13:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/adding-content/digital-arts/</loc>
+    <loc>/adding-content/digital-arts/</loc>
     <lastmod>2016-06-03T12:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/adding-content/engineering-management/</loc>
+    <loc>/adding-content/engineering-management/</loc>
     <lastmod>2016-06-03T11:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/adding-content/business-administration/</loc>
+    <loc>/adding-content/business-administration/</loc>
     <lastmod>2016-06-03T10:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/apply/</loc>
+    <loc>/apply/</loc>
     <lastmod>2016-06-04T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/recruit/</loc>
+    <loc>/recruit/</loc>
     <lastmod>2016-12-10T20:10:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2016-06-08T20:10:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/promotion/</loc>
+    <loc>/promotion/</loc>
     <lastmod>2016-03-09T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.studya.us/adding-content/</loc>
+    <loc>/adding-content/</loc>
     <lastmod>2016-05-29T19:56:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.studya.us/apply/</loc>
+    <loc>/apply/</loc>
     <lastmod>2016-06-04T21:07:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.studya.us/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2016-06-08T20:10:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.studya.us/getting-started/</loc>
+    <loc>/getting-started/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.studya.us/promotion/</loc>
+    <loc>/promotion/</loc>
     <lastmod>2016-03-09T21:07:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.studya.us/recruit/</loc>
+    <loc>/recruit/</loc>
     <lastmod>2016-12-10T20:10:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.studya.us/</loc>
+    <loc>/</loc>
     <lastmod>2016-12-08T21:07:13+01:00</lastmod>
     <priority>0</priority>
   </url>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>美国技术留学</title>
-    <link>http://www.studya.us/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on 美国技术留学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>版权所有 Studya.US</copyright>
     <lastBuildDate>Thu, 08 Dec 2016 21:07:13 +0100</lastBuildDate>
-    <atom:link href="http://www.studya.us/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>什么是技术留学</title>
-      <link>http://www.studya.us/</link>
+      <link>/</link>
       <pubDate>Thu, 08 Dec 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://www.studya.us/</guid>
+      <guid>/</guid>
       <description>
 
 &lt;h2 id=&#34;什么是技术留学&#34;&gt;什么是技术留学&lt;/h2&gt;
@@ -24,7 +24,7 @@
 
 &lt;p&gt;在信息科技领域，美国以无可匹敌的实力和压倒性的技术优势雄踞世界之首。全球十大科技顶尖公司，美国占据了八家！英特尔和高通向全世界提供芯片，微软和甲骨文占据了软件业的基础市场（从百度到腾讯再到中国各个政府部门，都使用甲骨文提供的数据库软件和技术）。美国拥有全球顶尖的实验室&amp;hellip;&amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.studya.us/images/classroom.jpg&#34; alt=&#34;Classroom&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/classroom.jpg&#34; alt=&#34;Classroom&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;我们通过与硅谷科技高校合作，把领先的信息科技领域知识传授给学生，在学习到最新高科技行业知识，拿到国际认可的硕士、博士学历和学位的同时，积累高科技行业的实习、工作实践经验。学生可以在美国技术留学中参与学习知识的同时，申请周边高科技、创业公司的实习或者工作。进而转为高科技工作签证，选择申请高科技职业技术移民 &amp;hellip;&lt;/p&gt;
 
@@ -68,10 +68,10 @@
     
     <item>
       <title>为什么技术留学</title>
-      <link>http://www.studya.us/getting-started/</link>
+      <link>/getting-started/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>http://www.studya.us/getting-started/</guid>
+      <guid>/getting-started/</guid>
       <description>
 
 &lt;h2 id=&#34;技术留学的优势&#34;&gt;技术留学的优势&lt;/h2&gt;
@@ -154,35 +154,35 @@
     
     <item>
       <title>技术留学计划</title>
-      <link>http://www.studya.us/adding-content/</link>
+      <link>/adding-content/</link>
       <pubDate>Sun, 29 May 2016 19:56:50 +0100</pubDate>
       
-      <guid>http://www.studya.us/adding-content/</guid>
+      <guid>/adding-content/</guid>
       <description>
 
 &lt;h2 id=&#34;软件工程学硕士&#34;&gt;软件工程学硕士&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;软件工程学&lt;/strong&gt;应用计算机科学和数学原理，为软件问题提出有效的解决方案。课程重点在于提高学生构建和完善高质量软件系统的技术水平。&lt;a href=&#34;http://www.studya.us/adding-content/software-engineering/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;软件工程学&lt;/strong&gt;应用计算机科学和数学原理，为软件问题提出有效的解决方案。课程重点在于提高学生构建和完善高质量软件系统的技术水平。&lt;a href=&#34;/adding-content/software-engineering/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;计算机工程硕士&#34;&gt;计算机工程硕士&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;计算机工程&lt;/strong&gt;是集合现代计算机系统软件和硬件设计、构建、应用和维护的科学和技术,是计算机科学与电子工程结合的学科。&lt;a href=&#34;http://www.studya.us/adding-content/computer-engineering/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;计算机工程&lt;/strong&gt;是集合现代计算机系统软件和硬件设计、构建、应用和维护的科学和技术,是计算机科学与电子工程结合的学科。&lt;a href=&#34;/adding-content/computer-engineering/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;计算机科学硕士&#34;&gt;计算机科学硕士&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;计算机科学&lt;/strong&gt;已经超越了学习编程基本细节的阶段，而是教导学生如何发现隐藏在软件问题后的真正问题。本项目的学生将学习如何找到先进软件问题的解决方案，例如自动驾驶汽车和MRI机器所使用的软件。学生从本项目毕业后，将有能力挖掘隐藏在代码后的问题，并找到彻底的解决方案。&lt;a href=&#34;http://www.studya.us/adding-content/computer-science/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;计算机科学&lt;/strong&gt;已经超越了学习编程基本细节的阶段，而是教导学生如何发现隐藏在软件问题后的真正问题。本项目的学生将学习如何找到先进软件问题的解决方案，例如自动驾驶汽车和MRI机器所使用的软件。学生从本项目毕业后，将有能力挖掘隐藏在代码后的问题，并找到彻底的解决方案。&lt;a href=&#34;/adding-content/computer-science/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;数字艺术硕士&#34;&gt;数字艺术硕士&lt;/h2&gt;
 
-&lt;p&gt;当今世界，智能手机、平板电脑、可穿戴电脑、扩增实境技术蓬勃发展，数字艺术家发挥的作用前所未有。新的科技产品不仅需要大量内容支持，并要求设计师、艺术家、编者掌握新的技能来创造这些内容。社会对这样的人才需求剧增。&lt;strong&gt;数字艺术&lt;/strong&gt;硕士专业把设计基础、专业技能、企业创新相结合，培养新型现代艺术家，这些艺术家将在未来科技发展和创新中发挥独特作用。&lt;a href=&#34;http://www.studya.us/adding-content/digital-arts/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当今世界，智能手机、平板电脑、可穿戴电脑、扩增实境技术蓬勃发展，数字艺术家发挥的作用前所未有。新的科技产品不仅需要大量内容支持，并要求设计师、艺术家、编者掌握新的技能来创造这些内容。社会对这样的人才需求剧增。&lt;strong&gt;数字艺术&lt;/strong&gt;硕士专业把设计基础、专业技能、企业创新相结合，培养新型现代艺术家，这些艺术家将在未来科技发展和创新中发挥独特作用。&lt;a href=&#34;/adding-content/digital-arts/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;工程管理硕士&#34;&gt;工程管理硕士&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;工程管理&lt;/strong&gt;是管理学中的一个专门领域，要求技术和管理方面广泛的能力。工程管理既包括运作管理， 又包括项目管理。一个成功的工程经理必须具备指导、 引领、 激发专业技术人员的能力， 进而实现公司目标。&lt;a href=&#34;http://www.studya.us/adding-content/engineering-management/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工程管理&lt;/strong&gt;是管理学中的一个专门领域，要求技术和管理方面广泛的能力。工程管理既包括运作管理， 又包括项目管理。一个成功的工程经理必须具备指导、 引领、 激发专业技术人员的能力， 进而实现公司目标。&lt;a href=&#34;/adding-content/engineering-management/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;工商管理硕士&#34;&gt;工商管理硕士&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;工商管理&lt;/strong&gt;硕士课程帮助学生掌握扎实的知识，培养实用的技能并积累丰富的实践经验，使学生在当今全球化的市场环境中脱颖而出，成长为工商界领导者。课程突出国际化，引导学生深入理解跨文化沟通与交流，掌握国际商务的内涵与运作。&lt;a href=&#34;http://www.studya.us/adding-content/business-administration/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工商管理&lt;/strong&gt;硕士课程帮助学生掌握扎实的知识，培养实用的技能并积累丰富的实践经验，使学生在当今全球化的市场环境中脱颖而出，成长为工商界领导者。课程突出国际化，引导学生深入理解跨文化沟通与交流，掌握国际商务的内涵与运作。&lt;a href=&#34;/adding-content/business-administration/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&#34;embed itu&#34;&gt;
 &lt;style&gt;
@@ -206,15 +206,15 @@
     
     <item>
       <title>软件工程学硕士</title>
-      <link>http://www.studya.us/adding-content/software-engineering/</link>
+      <link>/adding-content/software-engineering/</link>
       <pubDate>Fri, 03 Jun 2016 15:56:50 +0100</pubDate>
       
-      <guid>http://www.studya.us/adding-content/software-engineering/</guid>
+      <guid>/adding-content/software-engineering/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;软件工程学&lt;/strong&gt;应用计算机科学和数学原理，为软件问题提出有效的解决方案。课程重点在于提高学生构建和完善高质量软件系统的技术水平。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.studya.us/images/software-engineering.jpg&#34; alt=&#34;software engineering&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/software-engineering.jpg&#34; alt=&#34;software engineering&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;课程描述&#34;&gt;课程描述&lt;/h2&gt;
 
@@ -307,10 +307,10 @@
     
     <item>
       <title>计算机工程学硕士</title>
-      <link>http://www.studya.us/adding-content/computer-engineering/</link>
+      <link>/adding-content/computer-engineering/</link>
       <pubDate>Fri, 03 Jun 2016 14:56:50 +0100</pubDate>
       
-      <guid>http://www.studya.us/adding-content/computer-engineering/</guid>
+      <guid>/adding-content/computer-engineering/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;计算机工程&lt;/strong&gt;是集合现代计算机系统软件和硬件设计、构建、应用和维护的
@@ -408,10 +408,10 @@
     
     <item>
       <title>计算机科学硕士</title>
-      <link>http://www.studya.us/adding-content/computer-science/</link>
+      <link>/adding-content/computer-science/</link>
       <pubDate>Fri, 03 Jun 2016 13:56:50 +0100</pubDate>
       
-      <guid>http://www.studya.us/adding-content/computer-science/</guid>
+      <guid>/adding-content/computer-science/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;计算机科学&lt;/strong&gt;已经超越了学习编程基本细节的阶段，而是教导学生如何发现隐藏在软件问题后的真正问题。本项目的学生将学习如何找到先进软件问题的解决方案，例如自动驾驶汽车和MRI机器所使用的软件。学生从本项目毕业后，将有能力挖掘隐藏在代码后的问题，并找到彻底的解决方案。&lt;/p&gt;
@@ -507,10 +507,10 @@
     
     <item>
       <title>数字艺术硕士</title>
-      <link>http://www.studya.us/adding-content/digital-arts/</link>
+      <link>/adding-content/digital-arts/</link>
       <pubDate>Fri, 03 Jun 2016 12:56:50 +0100</pubDate>
       
-      <guid>http://www.studya.us/adding-content/digital-arts/</guid>
+      <guid>/adding-content/digital-arts/</guid>
       <description>
 
 &lt;p&gt;当今世界，智能手机、平板电脑、可穿戴电脑、扩增实境技术蓬勃发展，数字艺术家发挥的作用前所未有。新的科技产品不仅需要大量内容支持，并要求设计师、艺术家、编者掌握新的技能来创造这些内容。社会对这样的人才需求剧增。&lt;strong&gt;数字艺术&lt;/strong&gt;硕士专业把设计基础、专业技能、企业创新相结合，培养新型现代艺术家，这些艺术家将在未来科技发展和创新中发挥独特作用。&lt;/p&gt;
@@ -606,10 +606,10 @@
     
     <item>
       <title>工程管理硕士</title>
-      <link>http://www.studya.us/adding-content/engineering-management/</link>
+      <link>/adding-content/engineering-management/</link>
       <pubDate>Fri, 03 Jun 2016 11:56:50 +0100</pubDate>
       
-      <guid>http://www.studya.us/adding-content/engineering-management/</guid>
+      <guid>/adding-content/engineering-management/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;工程管理&lt;/strong&gt;是管理学中的一个专门领域，要求技术和管理方面广泛的能力。工程管理既包括运作管理， 又包括项目管理。一个成功的工程经理必须具备指导、 引领、 激发专业技术人员的能力， 进而实现公司目标。&lt;/p&gt;
@@ -709,10 +709,10 @@
     
     <item>
       <title>工商管理硕士</title>
-      <link>http://www.studya.us/adding-content/business-administration/</link>
+      <link>/adding-content/business-administration/</link>
       <pubDate>Fri, 03 Jun 2016 10:56:50 +0100</pubDate>
       
-      <guid>http://www.studya.us/adding-content/business-administration/</guid>
+      <guid>/adding-content/business-administration/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;工商管理&lt;/strong&gt;硕士课程帮助学生掌握扎实的知识，培养实用的技能并积累丰富的实践经验，使学生在当今全球化的市场环境中脱颖而出，成长为工商界领导者。课程突出国际化，引导学生深入理解跨文化沟通与交流，掌握国际商务的内涵与运作。&lt;/p&gt;
@@ -809,10 +809,10 @@
     
     <item>
       <title>现在申请</title>
-      <link>http://www.studya.us/apply/</link>
+      <link>/apply/</link>
       <pubDate>Sat, 04 Jun 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://www.studya.us/apply/</guid>
+      <guid>/apply/</guid>
       <description>
 
 &lt;h2 id=&#34;直接申请&#34;&gt;直接申请&lt;/h2&gt;
@@ -862,10 +862,10 @@
     
     <item>
       <title>招贤纳士</title>
-      <link>http://www.studya.us/recruit/</link>
+      <link>/recruit/</link>
       <pubDate>Sat, 10 Dec 2016 20:10:46 +0100</pubDate>
       
-      <guid>http://www.studya.us/recruit/</guid>
+      <guid>/recruit/</guid>
       <description>
 
 &lt;h2 id=&#34;招聘-文案-技术留学编辑&#34;&gt;招聘：文案／技术留学编辑&lt;/h2&gt;
@@ -885,17 +885,17 @@
 &lt;p&gt;如果您有兴趣，请加微信：&lt;strong&gt;studya_us&lt;/strong&gt;，&lt;br /&gt;
 也可以访问我们的网页(网址：&lt;strong&gt;&lt;a href=&#34;https://www.studya.us/recruit&#34;&gt;https://www.studya.us/recruit&lt;/a&gt;&lt;/strong&gt;)，&lt;br /&gt;
 或者长按并识别以下二维码：&lt;br /&gt;
-&lt;img src=&#34;http://www.studya.us/images/recruit.jpg&#34; alt=&#34;www.studya.us/recruit&#34; /&gt;&lt;br /&gt;
+&lt;img src=&#34;/images/recruit.jpg&#34; alt=&#34;www.studya.us/recruit&#34; /&gt;&lt;br /&gt;
 如果你知道&lt;strong&gt;周围的朋友有兴趣&lt;/strong&gt;，请帮助把以上信息转发给他们，谢谢！&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>联系我们</title>
-      <link>http://www.studya.us/contact/</link>
+      <link>/contact/</link>
       <pubDate>Wed, 08 Jun 2016 20:10:46 +0100</pubDate>
       
-      <guid>http://www.studya.us/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;!-- 请填写并提交下列表格，我们会尽快与您联系：
 &lt;style&gt;
   .form {
@@ -941,20 +941,20 @@
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;长按并识别以下二维码，订阅&amp;rdquo;技术留学&amp;rdquo;微信公众号，获得更多美国技术留学工作信息：&lt;br /&gt;
-&lt;img src=&#34;http://www.studya.us/images/qrcode_public_wechat.jpg&#34; alt=&#34;微信ID：技术留学&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;/images/qrcode_public_wechat.jpg&#34; alt=&#34;微信ID：技术留学&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;长按并识别以下二维码，加我们的微信号&amp;rdquo;studya_us&amp;rdquo;，直接跟我们联系：&lt;br /&gt;
-&lt;img src=&#34;http://www.studya.us/images/studya_us_logo.png&#34; alt=&#34;微信ID：studya_us&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;/images/studya_us_logo.png&#34; alt=&#34;微信ID：studya_us&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
     
     <item>
       <title>技术留学新出路</title>
-      <link>http://www.studya.us/promotion/</link>
+      <link>/promotion/</link>
       <pubDate>Wed, 09 Mar 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://www.studya.us/promotion/</guid>
+      <guid>/promotion/</guid>
       <description>&lt;p&gt;&lt;strong&gt;时间短&lt;/strong&gt;：最快一年三个月取得硕士学位&lt;br /&gt;
 &lt;strong&gt;花钱少&lt;/strong&gt;：全部学费：$19,800，杂费：$1706，保险费：$2235(可选)&lt;br /&gt;
 &lt;strong&gt;机会好&lt;/strong&gt;：可以有长达3年的在美公司实习工作机会&lt;/p&gt;
@@ -991,13 +991,13 @@
 
 
 &lt;p&gt;还等什么，现在就加我们微信（&amp;rdquo;&lt;strong&gt;studya_us&lt;/strong&gt;&amp;ldquo;）报名吧&lt;br /&gt;
-&lt;img src=&#34;http://www.studya.us/images/studya_us_logo.png&#34; alt=&#34;微信ID：studya_us&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/images/studya_us_logo.png&#34; alt=&#34;微信ID：studya_us&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;我们乐意帮助有意申请的学生达到目标！我们会帮您和学校直接联系，解决您的困难，我们已经协助不少人进入了学校。&lt;/p&gt;
 
 &lt;p&gt;我们是一群志同道合的华人，有志于通过架构中美桥梁，协调教育机会、减少科技能力势差、均衡资源合理分布，帮助优化职业规划，辅助技能发展，利用已有社会资源，推荐大家成为适于，利于，强于社会需要的人才。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.studya.us/adding-content/&#34;&gt;专业介绍&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/adding-content/&#34;&gt;专业介绍&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

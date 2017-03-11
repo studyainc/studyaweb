@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on 美国技术留学</title>
-    <link>http://www.studya.us/contact/index.xml</link>
+    <link>/contact/index.xml</link>
     <description>Recent content in Contacts on 美国技术留学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>版权所有 Studya.US</copyright>
     <lastBuildDate>Wed, 08 Jun 2016 20:10:46 +0100</lastBuildDate>
-    <atom:link href="http://www.studya.us/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>联系我们</title>
-      <link>http://www.studya.us/contact/</link>
+      <link>/contact/</link>
       <pubDate>Wed, 08 Jun 2016 20:10:46 +0100</pubDate>
       
-      <guid>http://www.studya.us/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;!-- 请填写并提交下列表格，我们会尽快与您联系：
 &lt;style&gt;
   .form {
@@ -61,10 +61,10 @@
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;长按并识别以下二维码，订阅&amp;rdquo;技术留学&amp;rdquo;微信公众号，获得更多美国技术留学工作信息：&lt;br /&gt;
-&lt;img src=&#34;http://www.studya.us/images/qrcode_public_wechat.jpg&#34; alt=&#34;微信ID：技术留学&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;/images/qrcode_public_wechat.jpg&#34; alt=&#34;微信ID：技术留学&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;长按并识别以下二维码，加我们的微信号&amp;rdquo;studya_us&amp;rdquo;，直接跟我们联系：&lt;br /&gt;
-&lt;img src=&#34;http://www.studya.us/images/studya_us_logo.png&#34; alt=&#34;微信ID：studya_us&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;/images/studya_us_logo.png&#34; alt=&#34;微信ID：studya_us&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>

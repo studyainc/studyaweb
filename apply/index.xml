@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applies on 美国技术留学</title>
-    <link>http://www.studya.us/apply/index.xml</link>
+    <link>/apply/index.xml</link>
     <description>Recent content in Applies on 美国技术留学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>版权所有 Studya.US</copyright>
     <lastBuildDate>Sat, 04 Jun 2016 21:07:13 +0100</lastBuildDate>
-    <atom:link href="http://www.studya.us/apply/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/apply/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>现在申请</title>
-      <link>http://www.studya.us/apply/</link>
+      <link>/apply/</link>
       <pubDate>Sat, 04 Jun 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://www.studya.us/apply/</guid>
+      <guid>/apply/</guid>
       <description>
 
 &lt;h2 id=&#34;直接申请&#34;&gt;直接申请&lt;/h2&gt;

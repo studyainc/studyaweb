@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Promotions on 美国技术留学</title>
-    <link>http://www.studya.us/promotion/index.xml</link>
+    <link>/promotion/index.xml</link>
     <description>Recent content in Promotions on 美国技术留学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>版权所有 Studya.US</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 21:07:13 +0100</lastBuildDate>
-    <atom:link href="http://www.studya.us/promotion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/promotion/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>技术留学新出路</title>
-      <link>http://www.studya.us/promotion/</link>
+      <link>/promotion/</link>
       <pubDate>Wed, 09 Mar 2016 21:07:13 +0100</pubDate>
       
-      <guid>http://www.studya.us/promotion/</guid>
+      <guid>/promotion/</guid>
       <description>&lt;p&gt;&lt;strong&gt;时间短&lt;/strong&gt;：最快一年三个月取得硕士学位&lt;br /&gt;
 &lt;strong&gt;花钱少&lt;/strong&gt;：全部学费：$19,800，杂费：$1706，保险费：$2235(可选)&lt;br /&gt;
 &lt;strong&gt;机会好&lt;/strong&gt;：可以有长达3年的在美公司实习工作机会&lt;/p&gt;
@@ -52,13 +52,13 @@
 
 
 &lt;p&gt;还等什么，现在就加我们微信（&amp;rdquo;&lt;strong&gt;studya_us&lt;/strong&gt;&amp;ldquo;）报名吧&lt;br /&gt;
-&lt;img src=&#34;http://www.studya.us/images/studya_us_logo.png&#34; alt=&#34;微信ID：studya_us&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/images/studya_us_logo.png&#34; alt=&#34;微信ID：studya_us&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;我们乐意帮助有意申请的学生达到目标！我们会帮您和学校直接联系，解决您的困难，我们已经协助不少人进入了学校。&lt;/p&gt;
 
 &lt;p&gt;我们是一群志同道合的华人，有志于通过架构中美桥梁，协调教育机会、减少科技能力势差、均衡资源合理分布，帮助优化职业规划，辅助技能发展，利用已有社会资源，推荐大家成为适于，利于，强于社会需要的人才。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.studya.us/adding-content/&#34;&gt;专业介绍&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/adding-content/&#34;&gt;专业介绍&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
