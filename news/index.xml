@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on 学涯留学</title>
+    <link>https://www.studya.us/news/index.xml</link>
+    <description>Recent content in News on 学涯留学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>版权所有 Studya.US</copyright>
+    <lastBuildDate>Sat, 11 Mar 2017 19:55:00 +0100</lastBuildDate>
+    <atom:link href="https://www.studya.us/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>美国留学新闻</title>
+      <link>https://www.studya.us/news/</link>
+      <pubDate>Sat, 11 Mar 2017 19:55:00 +0100</pubDate>
+      
+      <guid>https://www.studya.us/news/</guid>
+      <description>&lt;p&gt;敬请期待！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

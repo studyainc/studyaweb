@@ -2,109 +2,170 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.studya.us/</loc>
+    <lastmod>2017-05-29T19:56:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/tech/</loc>
     <lastmod>2016-12-08T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/getting-started/</loc>
+    <loc>https://www.studya.us/tech/advance/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/</loc>
+    <loc>https://www.studya.us/tech/prerequest/</loc>
+    <lastmod>2016-03-09T00:11:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/tech/programs/</loc>
     <lastmod>2016-05-29T19:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/software-engineering/</loc>
+    <loc>https://www.studya.us/tech/programs/software-engineering/</loc>
     <lastmod>2016-06-03T15:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/computer-engineering/</loc>
+    <loc>https://www.studya.us/tech/programs/computer-engineering/</loc>
     <lastmod>2016-06-03T14:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/computer-science/</loc>
+    <loc>https://www.studya.us/tech/programs/computer-science/</loc>
     <lastmod>2016-06-03T13:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/digital-arts/</loc>
+    <loc>https://www.studya.us/tech/programs/digital-arts/</loc>
     <lastmod>2016-06-03T12:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/engineering-management/</loc>
+    <loc>https://www.studya.us/tech/programs/engineering-management/</loc>
     <lastmod>2016-06-03T11:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/business-administration/</loc>
+    <loc>https://www.studya.us/tech/programs/business-administration/</loc>
     <lastmod>2016-06-03T10:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/apply/</loc>
+    <loc>https://www.studya.us/tech/apply/</loc>
     <lastmod>2016-06-04T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/recruit/</loc>
-    <lastmod>2016-12-10T20:10:46+01:00</lastmod>
+    <loc>https://www.studya.us/esl/</loc>
+    <lastmod>2017-05-09T19:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/contact/</loc>
-    <lastmod>2016-06-08T20:10:46+01:00</lastmod>
+    <loc>https://www.studya.us/esl/advance/</loc>
+    <lastmod>2017-04-29T19:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/promotion/</loc>
-    <lastmod>2016-03-09T21:07:13+01:00</lastmod>
+    <loc>https://www.studya.us/esl/prerequest/</loc>
+    <lastmod>2017-05-29T19:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/adding-content/</loc>
-    <lastmod>2016-05-29T19:56:50+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.studya.us/esl/steps/</loc>
+    <lastmod>2017-05-29T19:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/apply/</loc>
+    <loc>https://www.studya.us/esl/programs/</loc>
+    <lastmod>2017-05-29T19:56:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/esl/schools/</loc>
+    <lastmod>2017-05-29T19:56:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/esl/apply/</loc>
     <lastmod>2016-06-04T21:07:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/recruit/</loc>
+    <lastmod>2016-12-10T20:10:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/about/</loc>
+    <lastmod>2017-06-08T20:10:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/contact/</loc>
+    <lastmod>2016-06-08T20:10:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/news/</loc>
+    <lastmod>2017-03-11T19:55:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/promotion/</loc>
+    <lastmod>2016-03-09T21:07:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/about/</loc>
+    <lastmod>2017-06-08T20:10:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://www.studya.us/contact/</loc>
     <lastmod>2016-06-08T20:10:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/getting-started/</loc>
-    <lastmod>2016-03-09T00:11:02+01:00</lastmod>
+    <loc>https://www.studya.us/esl/</loc>
+    <lastmod>2017-05-09T19:56:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/promotion/</loc>
+    <loc>https://www.studya.us/news/</loc>
+    <lastmod>2017-03-11T19:55:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/promotion/</loc>
     <lastmod>2016-03-09T21:07:13+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/recruit/</loc>
+    <loc>https://www.studya.us/recruit/</loc>
     <lastmod>2016-12-10T20:10:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.studya.us/tech/</loc>
     <lastmod>2016-12-08T21:07:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/</loc>
+    <lastmod>2017-05-29T19:56:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   

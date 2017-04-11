@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on 学涯留学</title>
+    <link>https://www.studya.us/about/index.xml</link>
+    <description>Recent content in Abouts on 学涯留学</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>版权所有 Studya.US</copyright>
+    <lastBuildDate>Thu, 08 Jun 2017 20:10:46 +0100</lastBuildDate>
+    <atom:link href="https://www.studya.us/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于我们</title>
+      <link>https://www.studya.us/about/</link>
+      <pubDate>Thu, 08 Jun 2017 20:10:46 +0100</pubDate>
+      
+      <guid>https://www.studya.us/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;关于我们&#34;&gt;关于我们&lt;/h2&gt;
+
+&lt;p&gt;我们是一群志同道合的华人，有志于通过架构中美桥梁，协调教育机会、减少科技能力势差、均衡资源合理分布，帮助优化职业规划，辅助技能发展，利用已有社会资源，推荐大家成为适于，利于，强于社会需要的人才。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
