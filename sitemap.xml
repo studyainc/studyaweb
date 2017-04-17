@@ -112,6 +112,16 @@
   </url>
   
   <url>
+    <loc>https://www.studya.us/plans/</loc>
+    <lastmod>2017-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/plans/referral/</loc>
+    <lastmod>2017-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.studya.us/promotion/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
   </url>
@@ -142,6 +152,12 @@
   <url>
     <loc>https://www.studya.us/news/</loc>
     <lastmod>2017-03-11T19:55:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/plans/</loc>
+    <lastmod>2017-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
