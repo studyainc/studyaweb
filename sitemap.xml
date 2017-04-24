@@ -127,6 +127,26 @@
   </url>
   
   <url>
+    <loc>https://www.studya.us/forms/personal/</loc>
+    <lastmod>2017-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/forms/application/</loc>
+    <lastmod>2017-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/forms/address/</loc>
+    <lastmod>2017-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/forms/files/</loc>
+    <lastmod>2017-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.studya.us/promotion/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
   </url>
@@ -151,6 +171,12 @@
   <url>
     <loc>https://www.studya.us/esl/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/forms/</loc>
+    <lastmod>2017-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
