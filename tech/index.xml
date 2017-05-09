@@ -1026,24 +1026,12 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;提交信息-可选&#34;&gt;提交信息（可选）&lt;/h2&gt;
+&lt;h2 id=&#34;提交信息-我们帮助你申请&#34;&gt;提交信息（我们帮助你申请）&lt;/h2&gt;
 
-&lt;p&gt;我们将使用这些信息，帮助您协助评估、追踪进度、入学接待等事宜。您的信息将被严格保密！
-&lt;!-- [Apply](https://form.jotform.com/61816942602153) --&gt;
-&lt;div class=&#34;embed jotform&#34;&gt;
-&lt;iframe class=&#34;jotform&#34; id=&#34;ifm&#34; type=&#34;text/html&#34; height=&#34;680&#34; src=&#34;https://form.jotform.com/61937103857158&#34; allowfullscreen frameborder=&#34;2&#34;&gt;
-&lt;/iframe&gt;
-&lt;script&gt;
-  window.onresize = resizeframe;
-  window.onload = resizeframe;
-  function resizeframe() {
-    resizeIframeWidth(document.getElementById(&#39;ifm&#39;));
-  }
-  function resizeIframeWidth(e){
-    
-    e.width = (e.parentElement.scrollWidth) +&#39;px&#39;;
-  }
-&lt;/script&gt;
+&lt;p&gt;我们将使用这些信息，帮助您协助申请、追踪进度、入学接待等事宜。您的信息将被严格保密！
+&lt;!-- [Apply](https://jinshuju.net/f/9vadOX) --&gt;
+&lt;div style=&#34;border:1px solid lightgrey;border-radius:5px;box-shadow:5px 5px 5px lightgrey;&#34;&gt;
+&lt;script src=&#34;https://jinshuju.net/f/9vadOX/embedded.js?banner=hide&amp;background=white&#34;&gt;&lt;/script&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
