@@ -57,6 +57,11 @@
   </url>
   
   <url>
+    <loc>https://www.studya.us/tech/recommend/</loc>
+    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.studya.us/tech/apply_tech/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
   </url>
@@ -87,13 +92,30 @@
   </url>
   
   <url>
-    <loc>https://www.studya.us/esl/schools/</loc>
+    <loc>https://www.studya.us/esl/recommend/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.studya.us/esl/apply_esl/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/schools/</loc>
+    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/schools/school_lp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/schools/school_bc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/schools/school_ecc/</loc>
   </url>
   
   <url>
@@ -147,6 +169,11 @@
   </url>
   
   <url>
+    <loc>https://www.studya.us/forms/evaluation/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.studya.us/esl/level_1/</loc>
     <lastmod>2017-05-05T00:00:00+00:00</lastmod>
   </url>
@@ -164,6 +191,11 @@
   <url>
     <loc>https://www.studya.us/about/</loc>
     <lastmod>2017-06-08T20:10:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -206,6 +238,17 @@
   <url>
     <loc>https://www.studya.us/recruit/</loc>
     <lastmod>2016-12-10T20:10:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/schools/</loc>
+    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.studya.us/tags/</loc>
     <priority>0</priority>
   </url>
   

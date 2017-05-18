@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学涯留学</title>
-    <link>https://www.studya.us/index.xml</link>
+    <link>https://www.studya.us/</link>
     <description>Recent content on 学涯留学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>版权所有 Studya.US</copyright>
     <lastBuildDate>Mon, 29 May 2017 19:56:50 +0100</lastBuildDate>
-    <atom:link href="https://www.studya.us/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.studya.us/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>学涯留学</title>
@@ -16,64 +18,22 @@
       <pubDate>Mon, 29 May 2017 19:56:50 +0100</pubDate>
       
       <guid>https://www.studya.us/</guid>
-      <description>
-
-&lt;p&gt;学涯留学提供&lt;strong&gt;ESL预科留学&lt;/strong&gt;和&lt;strong&gt;技术留学&lt;/strong&gt;咨询服务。ESL预科留学提供给高中阶段留学生一个选择，帮助高中留学学生提供语言培训和寄宿制学习，以期顺利进入理想大学。技术留学是一种实用性质的留学方式，我们通过与硅谷科技高校合作，给大家提供在美国技术留学的机会。&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.studya.us/esl/&#34;&gt;&lt;img src=&#34;https://www.studya.us/images/esl.jpg&#34; alt=&#34;esl&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.studya.us/esl/&#34;&gt;&lt;img src=&#34;https://www.studya.us/images/college.jpg&#34; alt=&#34;college 2 years&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;center&gt;&lt;a href=&#34;https://www.studya.us/esl/&#34;&gt;预科留学／转社区大学&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;
-&lt;td&gt;&lt;center&gt;&lt;a href=&#34;https://www.studya.us/esl/&#34;&gt;社区大学／转四年制大学&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.studya.us/esl/&#34;&gt;&lt;img src=&#34;https://www.studya.us/images/university.jpg&#34; alt=&#34;4 university&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.studya.us/tech/&#34;&gt;&lt;img src=&#34;https://www.studya.us/images/master.jpg&#34; alt=&#34;master&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;center&gt;&lt;a href=&#34;https://www.studya.us/esl/&#34;&gt;四年制大学／获得本科学历&lt;/a&gt;&lt;/center&gt;&lt;/td&gt;
-&lt;td&gt;&lt;center&gt;&lt;a href=&#34;https://www.studya.us/tech/&#34;&gt;技术留学／获得研究生学历&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;预科留学-hahahugoshortcode-9hbhb&#34;&gt;&lt;a href=&#34;https://www.studya.us/esl/&#34;&gt;预科留学&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;预科留学指在进入正式大学课程之前，为英语非母语的学生进行一段时间的预备性英语学习。以便可以在语言，学习方法，基础知识文化生活等方面适应美国大学的学习生活，保证顺利的进行大学期间的学习。&lt;/p&gt;
-
-&lt;p&gt;ESL（English as a Second Language）就是英语非母语国家的学生需要的语言准备。&lt;/p&gt;
-
-&lt;p&gt;我们这里提供的&lt;strong&gt;ESL预科留学&lt;/strong&gt;，是采取了“双录取”，即在录取上ESL预科的同时，可从特定的名单中选择一个大学，获得同时录取。在达到一定的英语成绩要求后，转学到选择的大学上学。&lt;/p&gt;
-
-&lt;p&gt;出国读预科，可与其他国家学生交流，生活环境也是全英文，亦可&lt;strong&gt;选择入住美国本地家庭，全面了解美国文化&lt;/strong&gt;。其效果在升本科之后还是比较明显的，学生普遍比较&lt;strong&gt;自信和熟练&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;h2 id=&#34;技术留学-hahahugoshortcode-10hbhb&#34;&gt;&lt;a href=&#34;https://www.studya.us/tech/&#34;&gt;技术留学&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;技术留学&lt;/strong&gt;是一种实用性质的留学方式。和传统的留学方式不同，技术留学兼顾学习最新实用知识和参与于所学专业匹配的工作。&lt;/p&gt;
-
-&lt;p&gt;通过合理安排学习时间，最大可能的把所学的科学技术知识应用到相应的工作中。传统的留学方式，注重理论知识的学习，通常占用较长时间进行理论学习。&lt;/p&gt;
-
-&lt;p&gt;实用技术留学则注重把学习到的最新科学技术知识应用于实践。&lt;/p&gt;
-</description>
+      <description>留学途径 学涯留学是一家在美国的留学咨询技术公司，致力于让中国国内普通家庭的孩子也能有机会享受在美国的教育资源。
+我们会尽力寻找并推荐一些质量高、性价比高的学校给大家，从初来乍到适应生活的英语预科，价格低廉又容易入学的社区学院，适合转学比较有名的大学，以及经济实用的硕士研究生院校。
+美国的教育渠道繁多，一般人只知道美国有名大学众多，入学不易，价格也很高，但不知其中有很多途径是可以相对容易的达到同样的目标。
+例如，要上类似于加州戴维斯（UC Davis）这样的名校，不仅要有托福，SAT等考试，录取率很低，还要有一笔价格不菲的学费和其它费用。这对一般的家庭和学生是不容易做到的。
+但如果先上一个英语预科，只要稍有一点英语基础的高中生都可以入学，不需要任何英语或其他考试。可选择居住在附近的居民家庭，既提高英语交流能力，也有机会逐步熟悉美国的生活环境，为将来更好地生活打好基础。
+在经过一段时间的英语学习，达到熟练使用英语的程度后，可以自然的升到社区学院（预科学校和社区学院之间有升学协议）而不需特别考试，在社区学院学习两年的通用基础课程后，再顺次转到4年制大学。
+同样是学习基础课，社区学院的学费只是4年制大学学费的四分之一左右，这样，仅两年的学费可以省下几十万人民币。不少社区学院和4年制大学有转学协议，可以在入学社区学院时就得到大学的有条件录取。
+在4年制大学继续后两年的专业课程，完成学士学位。花了同样的时间，只是大学的前两年在社区学院，后两年在4年制大学。同样在4年的时间拿到了名牌大学的学位，还能节省几十万，入学也不费劲，这样的途径，对于一个肯学习的孩子，是不是既容易，又便宜，结果还不差!
+学涯留学 学涯留学提供ESL预科留学和技术留学咨询服务。ESL预科留学提供给高中阶段留学生一个选择，帮助高中留学学生提供语言培训和寄宿制学习，以顺利进入理想的大学。技术留学是一种实用性质的留学方式，我们通过与硅谷科技高校合作，给大家提供在美国技术留学，实习工作的机会。
+             预科留学／转社区大学 社区大学／转四年制大学       四年制大学／获得本科学历 技术留学／获得研究生学历        预科留学 预科留学指在进入正式大学课程之前，为英语非母语的学生进行一段时间的预备性英语学习。以便可以在语言，学习方法，基础知识文化生活等方面适应美国大学的学习生活，保证顺利的进行大学期间的学习。
+ESL（English as a Second Language）就是英语非母语国家的学生需要的语言准备。
+我们这里提供的ESL预科留学，是采取了“双录取”，即在录取上ESL预科的同时，可从特定的名单中选择一个大学，获得同时录取。在达到一定的英语成绩要求后，转学到选择的大学上学。
+出国读预科，可与其他国家学生交流，生活环境也是全英文，亦可选择入住美国本地家庭，全面了解美国文化。其效果在升本科之后还是比较明显的，学生普遍比较自信和熟练。
+技术留学 技术留学是一种实用性质的留学方式。和传统的留学方式不同，技术留学兼顾学习最新实用知识和参与于所学专业匹配的工作。
+通过合理安排学习时间，最大可能的把所学的科学技术知识应用到相应的工作中。传统的留学方式，注重理论知识的学习，通常占用较长时间进行理论学习。
+实用技术留学则注重把学习到的最新科学技术知识应用于实践。</description>
     </item>
     
     <item>
@@ -82,58 +42,15 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/</guid>
-      <description>
-
-&lt;h2 id=&#34;什么是技术留学&#34;&gt;什么是技术留学&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;技术留学&lt;/strong&gt;是一种实用性质的留学方式。和传统的留学方式不同，技术留学兼顾学习最新实用知识和参与于所学专业匹配的工作。通过合理安排学习时间，最大可能的把所学的科学技术知识应用到相应的工作中。传统的留学方式，注重理论知识的学习，通常占用较长时间进行理论学习。实用技术留学则注重把学习到的最新科学技术知识应用于实践。&lt;/p&gt;
-
-&lt;p&gt;在信息科技领域，美国以无可匹敌的实力和压倒性的技术优势雄踞世界之首。全球十大科技顶尖公司，美国占据了八家！英特尔和高通向全世界提供芯片，微软和甲骨文占据了软件业的基础市场（从百度到腾讯再到中国各个政府部门，都使用甲骨文提供的数据库软件和技术）。美国拥有全球顶尖的实验室&amp;hellip;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.studya.us/images/classroom.jpg&#34; alt=&#34;Classroom&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;我们通过与硅谷科技高校合作，把领先的信息科技领域知识传授给学生，在学习到最新高科技行业知识，拿到国际认可的硕士、博士学历和学位的同时，积累高科技行业的实习、工作实践经验。学生可以在美国技术留学中参与学习知识的同时，申请周边高科技、创业公司的实习或者工作。进而转为高科技工作签证，选择申请高科技职业技术移民 &amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;技术留学的前景&#34;&gt;技术留学的前景&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 技术留学获得学历学位的同时，积极参与社会实践，获得可观的报酬和宝贵的实际工作机会，势必成为独立性较强的留学者第一选择。&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 技术留学因为概念较新，竞争者比较少，加上入学门槛不高，成为实用科学技术爱好者的优势。&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 技术留学关注美国高新科技教育和就业市场，学习期间和学成之后就业市场火爆，可以成为国内就业或者职业发展的又一个选择。&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 技术留学注重独立性培养，创业氛围浓烈，为前往科技圣地－－硅谷的创业者提供一个不错的途径。&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 技术留学毕业后，获得留学生身份选择回国，可以容易满足国内各大城市户口政策。&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description> 什么是技术留学 技术留学是一种实用性质的留学方式。和传统的留学方式不同，技术留学兼顾学习最新实用知识和参与于所学专业匹配的工作。通过合理安排学习时间，最大可能的把所学的科学技术知识应用到相应的工作中。传统的留学方式，注重理论知识的学习，通常占用较长时间进行理论学习。实用技术留学则注重把学习到的最新科学技术知识应用于实践。
+在信息科技领域，美国以无可匹敌的实力和压倒性的技术优势雄踞世界之首。全球十大科技顶尖公司，美国占据了八家！英特尔和高通向全世界提供芯片，微软和甲骨文占据了软件业的基础市场（从百度到腾讯再到中国各个政府部门，都使用甲骨文提供的数据库软件和技术）。美国拥有全球顶尖的实验室&amp;hellip;&amp;hellip;
+我们通过与硅谷科技高校合作，把领先的信息科技领域知识传授给学生，在学习到最新高科技行业知识，拿到国际认可的硕士、博士学历和学位的同时，积累高科技行业的实习、工作实践经验。学生可以在美国技术留学中参与学习知识的同时，申请周边高科技、创业公司的实习或者工作。进而转为高科技工作签证，选择申请高科技职业技术移民 &amp;hellip;
+技术留学的前景 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术留学获得学历学位的同时，积极参与社会实践，获得可观的报酬和宝贵的实际工作机会，势必成为独立性较强的留学者第一选择。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术留学因为概念较新，竞争者比较少，加上入学门槛不高，成为实用科学技术爱好者的优势。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术留学关注美国高新科技教育和就业市场，学习期间和学成之后就业市场火爆，可以成为国内就业或者职业发展的又一个选择。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术留学注重独立性培养，创业氛围浓烈，为前往科技圣地－－硅谷的创业者提供一个不错的途径。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术留学毕业后，获得留学生身份选择回国，可以容易满足国内各大城市户口政策。
+ .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]    </description>
     </item>
     
     <item>
@@ -142,84 +59,26 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/advance/</guid>
-      <description>
-
-&lt;h2 id=&#34;技术留学的优势&#34;&gt;技术留学的优势&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 学历国际认可, 中国教育部认证名单&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 聚焦高薪科技领域，教授前沿实用技术课程，与计算机现实应用无缝对接&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 学期短，只需要一年三个月时间，即可取得硕士学位&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 费用低，节省不少血汗钱&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 无需GRE成绩，为您省去苦逼的GRE准备&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 属于STEM项目，可获得三年OPT时间用来工作&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 上学期间就可以兼职实习，即半工半读&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 硕士课程授课方式灵活，有课堂授课和网络授课形式&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 学校地处硅谷，与各大科技公司联系紧密，容易获得实习机会&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;专业高端&#34;&gt;专业高端&lt;/h2&gt;
-
-&lt;h3 id=&#34;硕士学位&#34;&gt;硕士学位:&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 电子工程硕士&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 计算机工程硕士&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 计算机科学硕士&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 软件工程硕士&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 数字艺术硕士&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 工程管理硕士&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 工商管理硕士&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;博士学位&#34;&gt;博士学位:&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 电子工程博士&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 工商管理博士&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 交叉科学博士&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description> 技术留学的优势 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学历国际认可, 中国教育部认证名单
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 聚焦高薪科技领域，教授前沿实用技术课程，与计算机现实应用无缝对接
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学期短，只需要一年三个月时间，即可取得硕士学位
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 费用低，节省不少血汗钱
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 无需GRE成绩，为您省去苦逼的GRE准备
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 属于STEM项目，可获得三年OPT时间用来工作
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 上学期间就可以兼职实习，即半工半读
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 硕士课程授课方式灵活，有课堂授课和网络授课形式
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学校地处硅谷，与各大科技公司联系紧密，容易获得实习机会
+专业高端 硕士学位: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 电子工程硕士
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 计算机工程硕士
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 计算机科学硕士
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 软件工程硕士
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 数字艺术硕士
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 工程管理硕士
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 工商管理硕士
+博士学位: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 电子工程博士
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 工商管理博士
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 交叉科学博士
+ .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]    </description>
     </item>
     
     <item>
@@ -228,51 +87,11 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/prerequest/</guid>
-      <description>
-
-&lt;h3 id=&#34;1-英语成绩&#34;&gt;1、英语成绩&lt;/h3&gt;
-
-&lt;p&gt;你需要托福或者雅思成绩。托福需要 72 分 左右，雅思 6.0 分。&lt;/p&gt;
-
-&lt;h3 id=&#34;2-学习成绩&#34;&gt;2、学习成绩&lt;/h3&gt;
-
-&lt;p&gt;GPA 2.75分 以上，&lt;strong&gt;或者&lt;/strong&gt;两封推荐信&lt;/p&gt;
-
-&lt;h3 id=&#34;3-存款证明&#34;&gt;3、存款证明&lt;/h3&gt;
-
-&lt;p&gt;需要提供大约 3.6万 美刀，约合 23.76万 人民币的存款证明。可以本人，也可以是担保。&lt;/p&gt;
-
-&lt;h3 id=&#34;4-强烈意愿&#34;&gt;4、强烈意愿&lt;/h3&gt;
-
-&lt;p&gt;一切问题的解决都取决于想要解决的意愿，唤出你的最初的想法，想要走出国门去闯闯，跟我们联系吧，也许就有惊喜等着你！&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description> 1、英语成绩 你需要托福或者雅思成绩。托福需要 72 分 左右，雅思 6.0 分。
+2、学习成绩 GPA 2.75分 以上，或者两封推荐信
+3、存款证明 需要提供大约 3.6万 美刀，约合 23.76万 人民币的存款证明。可以本人，也可以是担保。
+4、强烈意愿 一切问题的解决都取决于想要解决的意愿，唤出你的最初的想法，想要走出国门去闯闯，跟我们联系吧，也许就有惊喜等着你！
+ .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]    </description>
     </item>
     
     <item>
@@ -281,65 +100,19 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/programs/</guid>
-      <description>
-
-&lt;h2 id=&#34;软件工程学硕士&#34;&gt;软件工程学硕士&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;软件工程学&lt;/strong&gt;应用计算机科学和数学原理，为软件问题提出有效的解决方案。课程重点在于提高学生构建和完善高质量软件系统的技术水平。&lt;br /&gt;
-&lt;a href=&#34;https://www.studya.us/tech/programs/software-engineering/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;计算机工程硕士&#34;&gt;计算机工程硕士&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;计算机工程&lt;/strong&gt;是集合现代计算机系统软件和硬件设计、构建、应用和维护的科学和技术,是计算机科学与电子工程结合的学科。&lt;br /&gt;
-&lt;a href=&#34;https://www.studya.us/tech/programs/computer-engineering/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;计算机科学硕士&#34;&gt;计算机科学硕士&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;计算机科学&lt;/strong&gt;已经超越了学习编程基本细节的阶段，而是教导学生如何发现隐藏在软件问题后的真正问题。本项目的学生将学习如何找到先进软件问题的解决方案，例如自动驾驶汽车和MRI机器所使用的软件。学生从本项目毕业后，将有能力挖掘隐藏在代码后的问题，并找到彻底的解决方案。&lt;br /&gt;
-&lt;a href=&#34;https://www.studya.us/tech/programs/computer-science/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;数字艺术硕士&#34;&gt;数字艺术硕士&lt;/h2&gt;
-
-&lt;p&gt;当今世界，智能手机、平板电脑、可穿戴电脑、扩增实境技术蓬勃发展，数字艺术家发挥的作用前所未有。新的科技产品不仅需要大量内容支持，并要求设计师、艺术家、编者掌握新的技能来创造这些内容。社会对这样的人才需求剧增。&lt;strong&gt;数字艺术&lt;/strong&gt;硕士专业把设计基础、专业技能、企业创新相结合，培养新型现代艺术家，这些艺术家将在未来科技发展和创新中发挥独特作用。&lt;br /&gt;
-&lt;a href=&#34;https://www.studya.us/tech/programs/digital-arts/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;工程管理硕士&#34;&gt;工程管理硕士&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;工程管理&lt;/strong&gt;是管理学中的一个专门领域，要求技术和管理方面广泛的能力。工程管理既包括运作管理， 又包括项目管理。一个成功的工程经理必须具备指导、 引领、 激发专业技术人员的能力， 进而实现公司目标。&lt;br /&gt;
-&lt;a href=&#34;https://www.studya.us/tech/programs/engineering-management/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;工商管理硕士&#34;&gt;工商管理硕士&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;工商管理&lt;/strong&gt;硕士课程帮助学生掌握扎实的知识，培养实用的技能并积累丰富的实践经验，使学生在当今全球化的市场环境中脱颖而出，成长为工商界领导者。课程突出国际化，引导学生深入理解跨文化沟通与交流，掌握国际商务的内涵与运作。&lt;br /&gt;
-&lt;a href=&#34;https://www.studya.us/tech/programs/business-administration/&#34;&gt;详细情况&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description> 软件工程学硕士 软件工程学应用计算机科学和数学原理，为软件问题提出有效的解决方案。课程重点在于提高学生构建和完善高质量软件系统的技术水平。
+详细情况
+计算机工程硕士 计算机工程是集合现代计算机系统软件和硬件设计、构建、应用和维护的科学和技术,是计算机科学与电子工程结合的学科。
+详细情况
+计算机科学硕士 计算机科学已经超越了学习编程基本细节的阶段，而是教导学生如何发现隐藏在软件问题后的真正问题。本项目的学生将学习如何找到先进软件问题的解决方案，例如自动驾驶汽车和MRI机器所使用的软件。学生从本项目毕业后，将有能力挖掘隐藏在代码后的问题，并找到彻底的解决方案。
+详细情况
+数字艺术硕士 当今世界，智能手机、平板电脑、可穿戴电脑、扩增实境技术蓬勃发展，数字艺术家发挥的作用前所未有。新的科技产品不仅需要大量内容支持，并要求设计师、艺术家、编者掌握新的技能来创造这些内容。社会对这样的人才需求剧增。数字艺术硕士专业把设计基础、专业技能、企业创新相结合，培养新型现代艺术家，这些艺术家将在未来科技发展和创新中发挥独特作用。
+详细情况
+工程管理硕士 工程管理是管理学中的一个专门领域，要求技术和管理方面广泛的能力。工程管理既包括运作管理， 又包括项目管理。一个成功的工程经理必须具备指导、 引领、 激发专业技术人员的能力， 进而实现公司目标。
+详细情况
+工商管理硕士 工商管理硕士课程帮助学生掌握扎实的知识，培养实用的技能并积累丰富的实践经验，使学生在当今全球化的市场环境中脱颖而出，成长为工商界领导者。课程突出国际化，引导学生深入理解跨文化沟通与交流，掌握国际商务的内涵与运作。
+详细情况
+ .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]    </description>
     </item>
     
     <item>
@@ -348,117 +121,28 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/programs/software-engineering/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;软件工程学&lt;/strong&gt;应用计算机科学和数学原理，为软件问题提出有效的解决方案。课程重点在于提高学生构建和完善高质量软件系统的技术水平。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.studya.us/images/software-engineering.jpg&#34; alt=&#34;software engineering&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;课程描述&#34;&gt;课程描述&lt;/h2&gt;
-
-&lt;p&gt;软件工程学硕士学位的课程内容围绕软件工程的技术和管理，重点培养学生构建和完善高质量软件系统的技术能力。学生将来就业范围广泛，包括软件业、互联网公司、电子工程公司、各种研发实验室、航空航天公司、银行和保险公司。&lt;/p&gt;
-
-&lt;h2 id=&#34;就业方向&#34;&gt;就业方向&lt;/h2&gt;
-
-&lt;p&gt;商务分析师、软件开发、电脑编程、数据分析、数据采集、数据库开发、Oracle应用软件开发、数据库营销分析师、系统分析师、Java开发师、Unix系统管理员、LTE现场测试员、软件工程师、应用程序员、网络管理员、质量控制分析员、质量分析员、Sebel管理员、软件分析员、软件开发、软件质量工程师、软件测试工程师、SQL开发师、系统管理员、系统分析师。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程要求&#34;&gt;课程要求&lt;/h2&gt;
-
-&lt;p&gt;学生必须完成36个学分的课程以获得软件工程硕士学位：&lt;/p&gt;
-
-&lt;h3 id=&#34;4门核心课程-共计12个学分&#34;&gt;4门核心课程: 共计12个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 软件工程&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 高级软件工程&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 软件需求获取&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 软件体系结构&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;综合实践-3个学分&#34;&gt;综合实践: 3个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;实习-1-9个学分&#34;&gt;实习: 1-9个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;选修课程-12-20个学分&#34;&gt;选修课程: 12-20个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 非相关学科课程: 最多3个学分&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 转入学分最多9个学分（作为选修课程）&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 软件工程硕士学位选修课程 最多20个学分（最多3个数学学分可计入其中）&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;录取要求&#34;&gt;录取要求&lt;/h2&gt;
-
-&lt;h3 id=&#34;入读过的所有大学的密封成绩单&#34;&gt;入读过的所有大学的密封成绩单&lt;/h3&gt;
-
-&lt;p&gt;本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。&lt;/p&gt;
-
-&lt;h3 id=&#34;个人陈述-500-750字&#34;&gt;个人陈述(500-750字)&lt;/h3&gt;
-
-&lt;p&gt;请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。&lt;/p&gt;
-
-&lt;h3 id=&#34;简历&#34;&gt;简历&lt;/h3&gt;
-
-&lt;p&gt;列举相关工作或志愿者经历(两页以内)。&lt;/p&gt;
-
-&lt;h2 id=&#34;国际学生申请者&#34;&gt;国际学生申请者&lt;/h2&gt;
-
-&lt;h3 id=&#34;成绩单认证&#34;&gt;成绩单认证&lt;/h3&gt;
-
-&lt;p&gt;所有非美国学历需经第三方认证机构认证,接受的认证包括:&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 国际教育研究基金会 International Education Research Foundation (IERF)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 世界教育服务社 World Education Services (WES)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; A2Z鉴定处 A2Z Evaluations&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 其它全美学历认证协会(NACES)成员单位&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;英语水平要求&#34;&gt;英语水平要求&lt;/h3&gt;
-
-&lt;p&gt;托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（&lt;strong&gt;微信号码：studya_us&lt;/strong&gt;）。&lt;/p&gt;
-
-&lt;h2 id=&#34;申请时间&#34;&gt;申请时间&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 秋季学期:9月开学 申请日期:5月15日-8月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 春季学期:1月开学 申请日期:9月15日-12月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 夏季学期:5月开学 申请日期:1月15日-4月15日&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>软件工程学应用计算机科学和数学原理，为软件问题提出有效的解决方案。课程重点在于提高学生构建和完善高质量软件系统的技术水平。
+课程描述 软件工程学硕士学位的课程内容围绕软件工程的技术和管理，重点培养学生构建和完善高质量软件系统的技术能力。学生将来就业范围广泛，包括软件业、互联网公司、电子工程公司、各种研发实验室、航空航天公司、银行和保险公司。
+就业方向 商务分析师、软件开发、电脑编程、数据分析、数据采集、数据库开发、Oracle应用软件开发、数据库营销分析师、系统分析师、Java开发师、Unix系统管理员、LTE现场测试员、软件工程师、应用程序员、网络管理员、质量控制分析员、质量分析员、Sebel管理员、软件分析员、软件开发、软件质量工程师、软件测试工程师、SQL开发师、系统管理员、系统分析师。
+课程要求 学生必须完成36个学分的课程以获得软件工程硕士学位：
+4门核心课程: 共计12个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 软件工程
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 高级软件工程
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 软件需求获取
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 软件体系结构
+综合实践: 3个学分 实习: 1-9个学分 选修课程: 12-20个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 非相关学科课程: 最多3个学分
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入学分最多9个学分（作为选修课程）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 软件工程硕士学位选修课程 最多20个学分（最多3个数学学分可计入其中）
+录取要求 入读过的所有大学的密封成绩单 本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。
+个人陈述(500-750字) 请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。
+简历 列举相关工作或志愿者经历(两页以内)。
+国际学生申请者 成绩单认证 所有非美国学历需经第三方认证机构认证,接受的认证包括:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际教育研究基金会 International Education Research Foundation (IERF)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 世界教育服务社 World Education Services (WES)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ A2Z鉴定处 A2Z Evaluations
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 其它全美学历认证协会(NACES)成员单位
+英语水平要求 托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（微信号码：studya_us）。
+申请时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 秋季学期:9月开学 申请日期:5月15日-8月15日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 春季学期:1月开学 申请日期:9月15日-12月15日</description>
     </item>
     
     <item>
@@ -467,117 +151,27 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/programs/computer-engineering/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;计算机工程&lt;/strong&gt;是集合现代计算机系统软件和硬件设计、构建、应用和维护的
-科学和技术,是计算机科学与电子工程结合的学科。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程描述&#34;&gt;课程描述&lt;/h2&gt;
-
-&lt;p&gt;计算机工程学硕士课程使学生掌握计算机科学和技术的原理,在此基础上进行计算机系统设计。学生将学习如何设计、应用和维护现代计算机系统的软件和硬件,以及计算机控制的设备的软件和硬件。&lt;/p&gt;
-
-&lt;h2 id=&#34;就业方向&#34;&gt;就业方向&lt;/h2&gt;
-
-&lt;p&gt;程序分析师、IT工程师、软件测试工程师、技术支持、质量分析师、软件开
-发、存储工程师等。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程要求&#34;&gt;课程要求&lt;/h2&gt;
-
-&lt;p&gt;学生必须完成36个学分的课程以获得软件工程硕士学位：&lt;/p&gt;
-
-&lt;h3 id=&#34;4门核心课程-共计12个学分&#34;&gt;4门核心课程: 共计12个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 计算机工程&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 算法&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 计算机系统结构&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 计算机网络系统 或 信号处理与系统分析&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;综合实践-3个学分&#34;&gt;综合实践: 3个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;实习-1-9个学分&#34;&gt;实习: 1-9个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;选修课程-12-20个学分&#34;&gt;选修课程: 12-20个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 非相关学科课程: 最多3个学分&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 转入学分: 最多9个学分（作为选修课程）&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 选修课程: 至少6个学分计算机工程的选修课程&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;录取要求&#34;&gt;录取要求&lt;/h2&gt;
-
-&lt;h3 id=&#34;入读过的所有大学的密封成绩单&#34;&gt;入读过的所有大学的密封成绩单&lt;/h3&gt;
-
-&lt;p&gt;本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。&lt;/p&gt;
-
-&lt;h3 id=&#34;个人陈述-500-750字&#34;&gt;个人陈述(500-750字)&lt;/h3&gt;
-
-&lt;p&gt;请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。&lt;/p&gt;
-
-&lt;h3 id=&#34;简历&#34;&gt;简历&lt;/h3&gt;
-
-&lt;p&gt;列举相关工作或志愿者经历(两页以内)。&lt;/p&gt;
-
-&lt;h2 id=&#34;国际学生申请者&#34;&gt;国际学生申请者&lt;/h2&gt;
-
-&lt;h3 id=&#34;成绩单认证&#34;&gt;成绩单认证&lt;/h3&gt;
-
-&lt;p&gt;所有非美国学历需经第三方认证机构认证,接受的认证包括&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 国际教育研究基金会 International Education Research Foundation (IERF)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 世界教育服务社 World Education Services (WES)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; A2Z鉴定处 A2Z Evaluations&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 其它全美学历认证协会(NACES)成员单位&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;英语水平要求&#34;&gt;英语水平要求&lt;/h3&gt;
-
-&lt;p&gt;托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（&lt;strong&gt;studya_us&lt;/strong&gt;）。&lt;/p&gt;
-
-&lt;h2 id=&#34;申请时间&#34;&gt;申请时间&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 秋季学期: 9月开学 申请日期:5月15日-8月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 春季学期: 1月开学 申请日期:9月15日-12月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 夏季学期: 5月开学 申请日期:1月15日-4月15日&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>计算机工程是集合现代计算机系统软件和硬件设计、构建、应用和维护的 科学和技术,是计算机科学与电子工程结合的学科。
+课程描述 计算机工程学硕士课程使学生掌握计算机科学和技术的原理,在此基础上进行计算机系统设计。学生将学习如何设计、应用和维护现代计算机系统的软件和硬件,以及计算机控制的设备的软件和硬件。
+就业方向 程序分析师、IT工程师、软件测试工程师、技术支持、质量分析师、软件开 发、存储工程师等。
+课程要求 学生必须完成36个学分的课程以获得软件工程硕士学位：
+4门核心课程: 共计12个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 计算机工程
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 算法
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 计算机系统结构
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 计算机网络系统 或 信号处理与系统分析
+综合实践: 3个学分 实习: 1-9个学分 选修课程: 12-20个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 非相关学科课程: 最多3个学分
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入学分: 最多9个学分（作为选修课程）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 选修课程: 至少6个学分计算机工程的选修课程
+录取要求 入读过的所有大学的密封成绩单 本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。
+个人陈述(500-750字) 请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。
+简历 列举相关工作或志愿者经历(两页以内)。
+国际学生申请者 成绩单认证 所有非美国学历需经第三方认证机构认证,接受的认证包括
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际教育研究基金会 International Education Research Foundation (IERF)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 世界教育服务社 World Education Services (WES)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ A2Z鉴定处 A2Z Evaluations
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 其它全美学历认证协会(NACES)成员单位
+英语水平要求 托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（studya_us）。
+申请时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 秋季学期: 9月开学 申请日期:5月15日-8月15日</description>
     </item>
     
     <item>
@@ -586,115 +180,29 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/programs/computer-science/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;计算机科学&lt;/strong&gt;已经超越了学习编程基本细节的阶段，而是教导学生如何发现隐藏在软件问题后的真正问题。本项目的学生将学习如何找到先进软件问题的解决方案，例如自动驾驶汽车和MRI机器所使用的软件。学生从本项目毕业后，将有能力挖掘隐藏在代码后的问题，并找到彻底的解决方案。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程描述&#34;&gt;课程描述&lt;/h2&gt;
-
-&lt;p&gt;计算机科学硕士课程提供包括编程语言、抽象代数、算法和二进制数据的综合教育。课程为学生提供的技术知识可使学生多种特定工业的挑战。&lt;/p&gt;
-
-&lt;h2 id=&#34;就业方向&#34;&gt;就业方向&lt;/h2&gt;
-
-&lt;p&gt;信息技术架构师、数据科学家、用户体验设计师、高级数据管理员（DBA）、安全工程师、信息系统、数据库开发、计算机系统分析师等。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程要求&#34;&gt;课程要求&lt;/h2&gt;
-
-&lt;p&gt;学生必须完成36个学分的课程以获得软件工程硕士学位：&lt;/p&gt;
-
-&lt;h3 id=&#34;4门核心课程-共计12个学分&#34;&gt;4门核心课程: 共计12个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 离散结构&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 操作系统和分布式系统原理&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 编程语言理论&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 高级计算机算法&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;综合实践-3个学分&#34;&gt;综合实践: 3个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;实习-1-9个学分&#34;&gt;实习: 1-9个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;选修课程-12-20个学分&#34;&gt;选修课程: 12-20个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 非相关学科课程: 最多3个学分&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 转入学分最多9个学分（作为选修课程）&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 最多20个学分（最多3个数学学分）&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;录取要求&#34;&gt;录取要求&lt;/h2&gt;
-
-&lt;h3 id=&#34;入读过的所有大学的密封成绩单&#34;&gt;入读过的所有大学的密封成绩单&lt;/h3&gt;
-
-&lt;p&gt;本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。&lt;/p&gt;
-
-&lt;h3 id=&#34;个人陈述-500-750字&#34;&gt;个人陈述(500-750字)&lt;/h3&gt;
-
-&lt;p&gt;请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。&lt;/p&gt;
-
-&lt;h3 id=&#34;简历&#34;&gt;简历&lt;/h3&gt;
-
-&lt;p&gt;列举相关工作或志愿者经历(两页以内)。&lt;/p&gt;
-
-&lt;h2 id=&#34;国际学生申请者&#34;&gt;国际学生申请者&lt;/h2&gt;
-
-&lt;h3 id=&#34;成绩单认证&#34;&gt;成绩单认证&lt;/h3&gt;
-
-&lt;p&gt;所有非美国学历需经第三方认证机构认证,接受的认证包括&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 国际教育研究基金会 International Education Research Foundation (IERF)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 世界教育服务社 World Education Services (WES)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; A2Z鉴定处 A2Z Evaluations&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 其它全美学历认证协会(NACES)成员单位&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;英语水平要求&#34;&gt;英语水平要求&lt;/h3&gt;
-
-&lt;p&gt;托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（&lt;strong&gt;studya_us&lt;/strong&gt;）。&lt;/p&gt;
-
-&lt;h2 id=&#34;申请时间&#34;&gt;申请时间&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 秋季学期:9月开学 申请日期:5月15日-8月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 春季学期:1月开学 申请日期:9月15日-12月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 夏季学期:5月开学 申请日期:1月15日-4月15日&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>计算机科学已经超越了学习编程基本细节的阶段，而是教导学生如何发现隐藏在软件问题后的真正问题。本项目的学生将学习如何找到先进软件问题的解决方案，例如自动驾驶汽车和MRI机器所使用的软件。学生从本项目毕业后，将有能力挖掘隐藏在代码后的问题，并找到彻底的解决方案。
+课程描述 计算机科学硕士课程提供包括编程语言、抽象代数、算法和二进制数据的综合教育。课程为学生提供的技术知识可使学生多种特定工业的挑战。
+就业方向 信息技术架构师、数据科学家、用户体验设计师、高级数据管理员（DBA）、安全工程师、信息系统、数据库开发、计算机系统分析师等。
+课程要求 学生必须完成36个学分的课程以获得软件工程硕士学位：
+4门核心课程: 共计12个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 离散结构
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 操作系统和分布式系统原理
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 编程语言理论
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 高级计算机算法
+综合实践: 3个学分 实习: 1-9个学分 选修课程: 12-20个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 非相关学科课程: 最多3个学分
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入学分最多9个学分（作为选修课程）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 最多20个学分（最多3个数学学分）
+录取要求 入读过的所有大学的密封成绩单 本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。
+个人陈述(500-750字) 请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。
+简历 列举相关工作或志愿者经历(两页以内)。
+国际学生申请者 成绩单认证 所有非美国学历需经第三方认证机构认证,接受的认证包括
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际教育研究基金会 International Education Research Foundation (IERF)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 世界教育服务社 World Education Services (WES)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ A2Z鉴定处 A2Z Evaluations
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 其它全美学历认证协会(NACES)成员单位
+英语水平要求 托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（studya_us）。
+申请时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 秋季学期:9月开学 申请日期:5月15日-8月15日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 春季学期:1月开学 申请日期:9月15日-12月15日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 夏季学期:5月开学 申请日期:1月15日-4月15日</description>
     </item>
     
     <item>
@@ -703,115 +211,28 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/programs/digital-arts/</guid>
-      <description>
-
-&lt;p&gt;当今世界，智能手机、平板电脑、可穿戴电脑、扩增实境技术蓬勃发展，数字艺术家发挥的作用前所未有。新的科技产品不仅需要大量内容支持，并要求设计师、艺术家、编者掌握新的技能来创造这些内容。社会对这样的人才需求剧增。&lt;strong&gt;数字艺术&lt;/strong&gt;硕士专业把设计基础、专业技能、企业创新相结合，培养新型现代艺术家，这些艺术家将在未来科技发展和创新中发挥独特作用。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程描述&#34;&gt;课程描述&lt;/h2&gt;
-
-&lt;p&gt;数字艺术硕士课程由经验丰富的工业界专家讲授，课程由设计基础、专业技能和企业创新三个主要部分组成，旨在培养具有领导才干和创新精神的新一代艺术家。学生将学习制作实景片、动画片、扩增实境和互动媒体，为担任数字艺术生产、广告、电影、游戏和流动应用程序等领域的管理者做准备。学生在学习期间将积累丰富的作品，包括动画片，电影和多媒体作品，并可在学术和工业界期刊上发表专业论文。&lt;/p&gt;
-
-&lt;h2 id=&#34;就业方向&#34;&gt;就业方向&lt;/h2&gt;
-
-&lt;p&gt;概念艺术家、电影制作艺术家、视频游戏设计师、GUI应用程序开发员、艺术指导、故事板艺术家等。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程要求&#34;&gt;课程要求&lt;/h2&gt;
-
-&lt;p&gt;学生必须完成36个学分的课程以获得软件工程硕士学位：&lt;/p&gt;
-
-&lt;h3 id=&#34;4门核心课程-共计12个学分&#34;&gt;4门核心课程: 共计12个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 新媒体制作&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 基础制作流程&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 数字媒体制作&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 数字媒体新创&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;综合实践-3个学分&#34;&gt;综合实践: 3个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;实习-1-9个学分&#34;&gt;实习: 1-9个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;选修课程-12-20个学分&#34;&gt;选修课程: 12-20个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 非相关学科课程: 最多3个学分&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 转入学分最多9个学分（作为选修课程）&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 选修课程: 最多20个学分&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;录取要求&#34;&gt;录取要求&lt;/h2&gt;
-
-&lt;h3 id=&#34;入读过的所有大学的密封成绩单&#34;&gt;入读过的所有大学的密封成绩单&lt;/h3&gt;
-
-&lt;p&gt;本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。&lt;/p&gt;
-
-&lt;h3 id=&#34;个人陈述-500-750字&#34;&gt;个人陈述(500-750字)&lt;/h3&gt;
-
-&lt;p&gt;请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。&lt;/p&gt;
-
-&lt;h3 id=&#34;简历&#34;&gt;简历&lt;/h3&gt;
-
-&lt;p&gt;列举相关工作或志愿者经历(两页以内)。&lt;/p&gt;
-
-&lt;h2 id=&#34;国际学生申请者&#34;&gt;国际学生申请者&lt;/h2&gt;
-
-&lt;h3 id=&#34;成绩单认证&#34;&gt;成绩单认证&lt;/h3&gt;
-
-&lt;p&gt;所有非美国学历需经第三方认证机构认证,接受的认证包括&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 国际教育研究基金会 International Education Research Foundation (IERF)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 世界教育服务社 World Education Services (WES)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; A2Z鉴定处 A2Z Evaluations&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 其它全美学历认证协会(NACES)成员单位&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;英语水平要求&#34;&gt;英语水平要求&lt;/h3&gt;
-
-&lt;p&gt;托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（&lt;strong&gt;studya_us&lt;/strong&gt;）。&lt;/p&gt;
-
-&lt;h2 id=&#34;申请时间&#34;&gt;申请时间&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 秋季学期:9月开学 申请日期:5月15日-8月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 春季学期:1月开学 申请日期:9月15日-12月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 夏季学期:5月开学 申请日期:1月15日-4月15日&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>当今世界，智能手机、平板电脑、可穿戴电脑、扩增实境技术蓬勃发展，数字艺术家发挥的作用前所未有。新的科技产品不仅需要大量内容支持，并要求设计师、艺术家、编者掌握新的技能来创造这些内容。社会对这样的人才需求剧增。数字艺术硕士专业把设计基础、专业技能、企业创新相结合，培养新型现代艺术家，这些艺术家将在未来科技发展和创新中发挥独特作用。
+课程描述 数字艺术硕士课程由经验丰富的工业界专家讲授，课程由设计基础、专业技能和企业创新三个主要部分组成，旨在培养具有领导才干和创新精神的新一代艺术家。学生将学习制作实景片、动画片、扩增实境和互动媒体，为担任数字艺术生产、广告、电影、游戏和流动应用程序等领域的管理者做准备。学生在学习期间将积累丰富的作品，包括动画片，电影和多媒体作品，并可在学术和工业界期刊上发表专业论文。
+就业方向 概念艺术家、电影制作艺术家、视频游戏设计师、GUI应用程序开发员、艺术指导、故事板艺术家等。
+课程要求 学生必须完成36个学分的课程以获得软件工程硕士学位：
+4门核心课程: 共计12个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 新媒体制作
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 基础制作流程
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 数字媒体制作
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 数字媒体新创
+综合实践: 3个学分 实习: 1-9个学分 选修课程: 12-20个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 非相关学科课程: 最多3个学分
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入学分最多9个学分（作为选修课程）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 选修课程: 最多20个学分
+录取要求 入读过的所有大学的密封成绩单 本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。
+个人陈述(500-750字) 请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。
+简历 列举相关工作或志愿者经历(两页以内)。
+国际学生申请者 成绩单认证 所有非美国学历需经第三方认证机构认证,接受的认证包括
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际教育研究基金会 International Education Research Foundation (IERF)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 世界教育服务社 World Education Services (WES)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ A2Z鉴定处 A2Z Evaluations
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 其它全美学历认证协会(NACES)成员单位
+英语水平要求 托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（studya_us）。
+申请时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 秋季学期:9月开学 申请日期:5月15日-8月15日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 春季学期:1月开学 申请日期:9月15日-12月15日</description>
     </item>
     
     <item>
@@ -820,119 +241,25 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/programs/engineering-management/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;工程管理&lt;/strong&gt;是管理学中的一个专门领域，要求技术和管理方面广泛的能力。工程管理既包括运作管理， 又包括项目管理。一个成功的工程经理必须具备指导、 引领、 激发专业技术人员的能力， 进而实现公司目标。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程描述&#34;&gt;课程描述&lt;/h2&gt;
-
-&lt;p&gt;工程管理有效开发学生的沟通能力和商业技能。 当今社会， 良好的沟通能力和商业技能是工程经理尤其需要具备的素质。&lt;/p&gt;
-
-&lt;p&gt;工程管理硕士非常适合在工程学、 数学、 科学、 计算机科学或其它相关领域获得本
-科学位的学生。 对于具有工商管理本科学位的学生，也是一个理想的选择。工程管理课程有助于有工商管理背景的学生获得更多技术方面的技能，使他们可以更好的承担需要管理和技术双重知识和技能的职位，或者转型从事更为技术性的工作。&lt;/p&gt;
-
-&lt;h2 id=&#34;就业方向&#34;&gt;就业方向&lt;/h2&gt;
-
-&lt;p&gt;工程管理的工作包括但不限于：项目经理、项目负责人、产品经理、管理咨询师、工程经理、运作专家、商务分析师、项目专家、项目群经理、制造工程师、运作经理。
-工程管理硕士课程有助于具有工程、科学、计算机科学、工商管理等学位背景的学生提升在科技公司的管理能力。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程要求&#34;&gt;课程要求&lt;/h2&gt;
-
-&lt;p&gt;学生必须完成36个学分的课程以获得软件工程硕士学位：&lt;/p&gt;
-
-&lt;h3 id=&#34;4门核心课程-共计12个学分&#34;&gt;4门核心课程: 共计12个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 工程管理原理&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 工程项目管理&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 组织行为&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 新产品和服务管理&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;综合实践-3个学分&#34;&gt;综合实践: 3个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;实习-1-9个学分&#34;&gt;实习: 1-9个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;选修课程-12-20个学分&#34;&gt;选修课程: 12-20个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 非相关学科课程: 最多3个学分&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 转入学分: 最多9个学分（作为选修课程）&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 选修课程: 最少需要6个学分的工程管理选修课程，以及6个学分的工商管理课程&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;录取要求&#34;&gt;录取要求&lt;/h2&gt;
-
-&lt;h3 id=&#34;入读过的所有大学的密封成绩单&#34;&gt;入读过的所有大学的密封成绩单&lt;/h3&gt;
-
-&lt;p&gt;本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。&lt;/p&gt;
-
-&lt;h3 id=&#34;个人陈述-500-750字&#34;&gt;个人陈述(500-750字)&lt;/h3&gt;
-
-&lt;p&gt;请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。&lt;/p&gt;
-
-&lt;h3 id=&#34;简历&#34;&gt;简历&lt;/h3&gt;
-
-&lt;p&gt;列举相关工作或志愿者经历(两页以内)。&lt;/p&gt;
-
-&lt;h2 id=&#34;国际学生申请者&#34;&gt;国际学生申请者&lt;/h2&gt;
-
-&lt;h3 id=&#34;成绩单认证&#34;&gt;成绩单认证&lt;/h3&gt;
-
-&lt;p&gt;所有非美国学历需经第三方认证机构认证,接受的认证包括&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 国际教育研究基金会 International Education Research Foundation (IERF)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 世界教育服务社 World Education Services (WES)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; A2Z鉴定处 A2Z Evaluations&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 其它全美学历认证协会(NACES)成员单位&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;英语水平要求&#34;&gt;英语水平要求&lt;/h3&gt;
-
-&lt;p&gt;托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（&lt;strong&gt;studya_us&lt;/strong&gt;）&lt;/p&gt;
-
-&lt;h2 id=&#34;申请时间&#34;&gt;申请时间&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 秋季学期:9月开学 申请日期:5月15日-8月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 春季学期:1月开学 申请日期:9月15日-12月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 夏季学期:5月开学 申请日期:1月15日-4月15日&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>工程管理是管理学中的一个专门领域，要求技术和管理方面广泛的能力。工程管理既包括运作管理， 又包括项目管理。一个成功的工程经理必须具备指导、 引领、 激发专业技术人员的能力， 进而实现公司目标。
+课程描述 工程管理有效开发学生的沟通能力和商业技能。 当今社会， 良好的沟通能力和商业技能是工程经理尤其需要具备的素质。
+工程管理硕士非常适合在工程学、 数学、 科学、 计算机科学或其它相关领域获得本 科学位的学生。 对于具有工商管理本科学位的学生，也是一个理想的选择。工程管理课程有助于有工商管理背景的学生获得更多技术方面的技能，使他们可以更好的承担需要管理和技术双重知识和技能的职位，或者转型从事更为技术性的工作。
+就业方向 工程管理的工作包括但不限于：项目经理、项目负责人、产品经理、管理咨询师、工程经理、运作专家、商务分析师、项目专家、项目群经理、制造工程师、运作经理。 工程管理硕士课程有助于具有工程、科学、计算机科学、工商管理等学位背景的学生提升在科技公司的管理能力。
+课程要求 学生必须完成36个学分的课程以获得软件工程硕士学位：
+4门核心课程: 共计12个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 工程管理原理
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 工程项目管理
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 组织行为
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 新产品和服务管理
+综合实践: 3个学分 实习: 1-9个学分 选修课程: 12-20个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 非相关学科课程: 最多3个学分
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入学分: 最多9个学分（作为选修课程）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 选修课程: 最少需要6个学分的工程管理选修课程，以及6个学分的工商管理课程
+录取要求 入读过的所有大学的密封成绩单 本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。
+个人陈述(500-750字) 请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。
+简历 列举相关工作或志愿者经历(两页以内)。
+国际学生申请者 成绩单认证 所有非美国学历需经第三方认证机构认证,接受的认证包括
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际教育研究基金会 International Education Research Foundation (IERF)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 世界教育服务社 World Education Services (WES)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ A2Z鉴定处 A2Z Evaluations</description>
     </item>
     
     <item>
@@ -941,116 +268,37 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/programs/business-administration/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;工商管理&lt;/strong&gt;硕士课程帮助学生掌握扎实的知识，培养实用的技能并积累丰富的实践经验，使学生在当今全球化的市场环境中脱颖而出，成长为工商界领导者。课程突出国际化，引导学生深入理解跨文化沟通与交流，掌握国际商务的内涵与运作。&lt;/p&gt;
-
-&lt;h2 id=&#34;侧重方向&#34;&gt;侧重方向&lt;/h2&gt;
-
-&lt;p&gt;学生若没有选择侧重方向，将获得综合工商管理硕士学位。若选择了侧重方向，学生需要进修4门所选侧重方向的课程。侧重方向包括：
-会计、人力资源管理、生物管理、国际商务、数字媒体管理、信息系统管理、企业资源规划（ERP）、管理、财务、营销、医疗健康管理、项目管理。&lt;/p&gt;
-
-&lt;h2 id=&#34;就业方向&#34;&gt;就业方向&lt;/h2&gt;
-
-&lt;p&gt;会计、客户经理、广告经理、生物实验室经理、品牌经理、商务办公室经理、诊所运营管理、财务主任、电子营销、金融分析师、实验室助理、市场部经理、运营项目经理等。&lt;/p&gt;
-
-&lt;h2 id=&#34;课程要求&#34;&gt;课程要求&lt;/h2&gt;
-
-&lt;p&gt;学生必须完成36个学分的课程以获得软件工程硕士学位：&lt;/p&gt;
-
-&lt;h3 id=&#34;4门核心课程-共计12个学分&#34;&gt;4门核心课程: 共计12个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 组织领导理论&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 金融和经济分析&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 竞争营销策略&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 技术和运营管理：创造价值&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;综合实践-3个学分&#34;&gt;综合实践: 3个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;实习-1-9个学分&#34;&gt;实习: 1-9个学分&lt;/h3&gt;
-
-&lt;h3 id=&#34;选修课程-12-20个学分&#34;&gt;选修课程: 12-20个学分&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 非相关学科课程: 最多3个学分&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 转入学分最多9个学分（作为选修课程）&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; MBA选修课程: 最多20个学分&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;录取要求&#34;&gt;录取要求&lt;/h2&gt;
-
-&lt;h3 id=&#34;入读过的所有大学的密封成绩单&#34;&gt;入读过的所有大学的密封成绩单&lt;/h3&gt;
-
-&lt;p&gt;本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。&lt;/p&gt;
-
-&lt;h3 id=&#34;个人陈述-500-750字&#34;&gt;个人陈述(500-750字)&lt;/h3&gt;
-
-&lt;p&gt;请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。&lt;/p&gt;
-
-&lt;h3 id=&#34;简历&#34;&gt;简历&lt;/h3&gt;
-
-&lt;p&gt;列举相关工作或志愿者经历(两页以内)。&lt;/p&gt;
-
-&lt;h2 id=&#34;国际学生申请者&#34;&gt;国际学生申请者&lt;/h2&gt;
-
-&lt;h3 id=&#34;成绩单认证&#34;&gt;成绩单认证&lt;/h3&gt;
-
-&lt;p&gt;所有非美国学历需经第三方认证机构认证,接受的认证包括&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 国际教育研究基金会 International Education Research Foundation (IERF)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 世界教育服务社 World Education Services (WES)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; A2Z鉴定处 A2Z Evaluations&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 其它全美学历认证协会(NACES)成员单位&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;英语水平要求&#34;&gt;英语水平要求&lt;/h3&gt;
-
-&lt;p&gt;托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（&lt;strong&gt;studya_us&lt;/strong&gt;）。&lt;/p&gt;
-
-&lt;h2 id=&#34;申请时间&#34;&gt;申请时间&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 秋季学期:9月开学 申请日期:5月15日-8月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 春季学期:1月开学 申请日期:9月15日-12月15日&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 夏季学期:5月开学 申请日期:1月15日-4月15日&lt;br&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>工商管理硕士课程帮助学生掌握扎实的知识，培养实用的技能并积累丰富的实践经验，使学生在当今全球化的市场环境中脱颖而出，成长为工商界领导者。课程突出国际化，引导学生深入理解跨文化沟通与交流，掌握国际商务的内涵与运作。
+侧重方向 学生若没有选择侧重方向，将获得综合工商管理硕士学位。若选择了侧重方向，学生需要进修4门所选侧重方向的课程。侧重方向包括： 会计、人力资源管理、生物管理、国际商务、数字媒体管理、信息系统管理、企业资源规划（ERP）、管理、财务、营销、医疗健康管理、项目管理。
+就业方向 会计、客户经理、广告经理、生物实验室经理、品牌经理、商务办公室经理、诊所运营管理、财务主任、电子营销、金融分析师、实验室助理、市场部经理、运营项目经理等。
+课程要求 学生必须完成36个学分的课程以获得软件工程硕士学位：
+4门核心课程: 共计12个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 组织领导理论
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 金融和经济分析
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 竞争营销策略
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术和运营管理：创造价值
+综合实践: 3个学分 实习: 1-9个学分 选修课程: 12-20个学分 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 非相关学科课程: 最多3个学分
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入学分最多9个学分（作为选修课程）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ MBA选修课程: 最多20个学分
+录取要求 入读过的所有大学的密封成绩单 本科累积GPA需2.75以上,研究生3.0以上(总分4.0基础上)。成绩单需列出修过的课程和相应分数,须从大学直接密封寄出,或由经认证的提供电子成绩单的机构寄出。国际学生请注意补充要求。
+个人陈述(500-750字) 请陈述为什么对某个学科感兴趣,计划怎样通过学习来实现你的未来目标。
+简历 列举相关工作或志愿者经历(两页以内)。
+国际学生申请者 成绩单认证 所有非美国学历需经第三方认证机构认证,接受的认证包括
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际教育研究基金会 International Education Research Foundation (IERF)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 世界教育服务社 World Education Services (WES)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ A2Z鉴定处 A2Z Evaluations
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 其它全美学历认证协会(NACES)成员单位
+英语水平要求 托福成绩72分以上,雅思成绩6.0以上。若使用其它方式证明达到英语水平要求,请联系我们（studya_us）。
+申请时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 秋季学期:9月开学 申请日期:5月15日-8月15日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 春季学期:1月开学 申请日期:9月15日-12月15日</description>
+    </item>
+    
+    <item>
+      <title>技术留学 推荐学校</title>
+      <link>https://www.studya.us/tech/recommend/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/tech/recommend/</guid>
+      <description>研究生大学： &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际科技大学 (International Technological University)</description>
     </item>
     
     <item>
@@ -1059,60 +307,7 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/apply_tech/</guid>
-      <description>
-
-&lt;h2 id=&#34;直接申请&#34;&gt;直接申请&lt;/h2&gt;
-
-&lt;p&gt;点击“现在申请”直接开始申请：
-&lt;!-- &lt;a href=&#34;http://itu.edu/apply-online-now/?aid=RichardLi&amp;amp%3Bcid=web&#34;&gt;ITU 国际科技大学&lt;/a&gt; --&gt;
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;style&gt;
-.apply {
-    margin: 10px;
-    padding: 0 20px;
-    text-align: center;
-    text-decoration: none;
-    font-weight: bold;
-    font: Arial, sans-serif;
-    font-size:larger;
-    padding: 6px 20px 6px 20px;
-    background: #e84e40;
-    border-radius: 3px;
-    box-shadow: #000000 0 2px 5px;
-}
-&lt;/style&gt;
-&lt;p align=&#34;center&#34;&gt;
-  &lt;a style=&#34;border:0px;color:white;&#34; href=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; class=&#34;apply&#34;&gt;[&gt;现在申请]&lt;/a&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;embed itu&#34;&gt;
-&lt;iframe id=&#34;cookie_itu&#34; type=&#34;text/html&#34; height=&#34;0&#34; src=&#34;https://itu.edu/apply-online-now/?aid=RichardLi&amp;cid=web&#34; frameborder=&#34;0&#34;&gt;
-&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;提交信息-可选&#34;&gt;提交信息（可选）&lt;/h2&gt;
-
-&lt;p&gt;我们将使用这些信息，帮助您协助评估、追踪进度、入学接待等事宜。您的信息将被严格保密！
-&lt;!-- [Apply](https://form.jotform.com/61816942602153) --&gt;
-&lt;div class=&#34;embed jotform&#34;&gt;
-&lt;iframe class=&#34;jotform&#34; id=&#34;ifm&#34; type=&#34;text/html&#34; height=&#34;680&#34; src=&#34;https://form.jotform.com/61937103857158&#34; allowfullscreen frameborder=&#34;2&#34;&gt;
-&lt;/iframe&gt;
-&lt;script&gt;
-  window.onresize = resizeframe;
-  window.onload = resizeframe;
-  function resizeframe() {
-    resizeIframeWidth(document.getElementById(&#39;ifm&#39;));
-  }
-  function resizeIframeWidth(e){
-    
-    e.width = (e.parentElement.scrollWidth) +&#39;px&#39;;
-  }
-&lt;/script&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description> 直接申请 点击“现在申请”直接开始申请： ITU 国际科技大学 --  .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]    提交信息（我们帮助你申请） 我们将使用这些信息，帮助您协助申请、追踪进度、入学接待等事宜。您的信息将被严格保密！   </description>
     </item>
     
     <item>
@@ -1121,14 +316,10 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/esl/</guid>
-      <description>&lt;p&gt;预科留学指在进入正式大学课程之前，为英语非母语的学生进行一段时间的预备性英语学习。以便可以在语言，学习方法，基础知识文化生活等方面适应美国大学的学习生活，保证顺利的进行大学期间的学习。&lt;/p&gt;
-
-&lt;p&gt;ESL（English as a Second Language）就是英语非母语国家的学生需要的语言准备。&lt;/p&gt;
-
-&lt;p&gt;我们这里提供的&lt;strong&gt;ESL预科留学&lt;/strong&gt;，是采取了“双录取”，即在录取上ESL预科的同时，可从特定的名单中选择一个大学，获得同时录取。在达到一定的英语成绩要求后，转学到选择的大学上学。&lt;/p&gt;
-
-&lt;p&gt;出国读预科，可与其他国家学生交流，生活环境也是全英文，亦可&lt;strong&gt;选择入住美国本地家庭，全面了解美国文化&lt;/strong&gt;。其效果在升本科之后还是比较明显的，学生普遍比较&lt;strong&gt;自信和熟练&lt;/strong&gt;。&lt;/p&gt;
-</description>
+      <description>预科留学指在进入正式大学课程之前，为英语非母语的学生进行一段时间的预备性英语学习。以便可以在语言，学习方法，基础知识文化生活等方面适应美国大学的学习生活，保证顺利的进行大学期间的学习。
+ESL（English as a Second Language）就是英语非母语国家的学生需要的语言准备。
+我们这里提供的ESL预科留学，是采取了“双录取”，即在录取上ESL预科的同时，可从特定的名单中选择一个大学，获得同时录取。在达到一定的英语成绩要求后，转学到选择的大学上学。
+出国读预科，可与其他国家学生交流，生活环境也是全英文，亦可选择入住美国本地家庭，全面了解美国文化。其效果在升本科之后还是比较明显的，学生普遍比较自信和熟练。</description>
     </item>
     
     <item>
@@ -1137,50 +328,21 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/esl/advance/</guid>
-      <description>
-
-&lt;h2 id=&#34;预科留学的特色&#34;&gt;预科留学的特色&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 是美国移民局授权可签发I-20学生签证的语言学校&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 是美国教育部认证机构CEA认证的全日制语言学校&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 师资雄厚，小班授课，教师均有ESL证书&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 学生在读语言期间就可以选择大学学分课程，保证转入社区大学后能取得高GPA，为两年后再转入4年制大学做好充分准备&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 学校和美国西岸三州十余所社区大学签有直接升学协议&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 学生无须托福、雅思等英语考试，只要在英语预科五级就可以转入社区大学&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 通过两年社区大学学完基础课程后再直接转入四年制大学继续后两年的专业学习，取得大学学士学位&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;双录取和转学保证&#34;&gt;双录取和转学保证&lt;/h2&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 学生转到社区大学的同时，可以收到学生选择的保读四年制大学的有条件录取通知书，只要达到GPA要求，即能确保转到自己心仪的大学（提供免费转学服务）&lt;br&gt;
-
-
-&lt;h2 id=&#34;四年制大学保读和保研&#34;&gt;四年制大学保读和保研&lt;/h2&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 提供四年制大学的保读项目，学生只需高中毕业并完成ESL-5级，就可以直接转入于语言学校签有保读转学合同的大学 (无须托福,雅思，SAT)&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 和5所大学签有研究生转学协议，只要完成ESL-6级就可以直接进入研究生学位项目 (无须GRE，GMAT)&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;入学时间点&#34;&gt;入学时间点&lt;/h2&gt;
-
-&lt;p&gt;每8周一个授课阶段，学生可以在每一个阶段的起始日期入学，方便学生尽快入学。&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 05/15/2017 - 07/07/2017&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 07/10/2017 - 09/01/2017&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 09/05/2017 - 10/27/2017&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 10/30/2017 - 12/22/2017&lt;br&gt;
-&lt;/p&gt;
-</description>
+      <description>预科留学的特色 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 是美国移民局授权可签发I-20学生签证的语言学校
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 是美国教育部认证机构CEA认证的全日制语言学校
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 师资雄厚，小班授课，教师均有ESL证书
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生在读语言期间就可以选择大学学分课程，保证转入社区大学后能取得高GPA，为两年后再转入4年制大学做好充分准备
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学校和美国西岸三州十余所社区大学签有直接升学协议
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生无须托福、雅思等英语考试，只要在英语预科五级就可以转入社区大学
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 通过两年社区大学学完基础课程后再直接转入四年制大学继续后两年的专业学习，取得大学学士学位
+双录取和转学保证 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生转到社区大学的同时，可以收到学生选择的保读四年制大学的有条件录取通知书，只要达到GPA要求，即能确保转到自己心仪的大学（提供免费转学服务）
+四年制大学保读和保研 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 提供四年制大学的保读项目，学生只需高中毕业并完成ESL-5级，就可以直接转入于语言学校签有保读转学合同的大学 (无须托福,雅思，SAT)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 和5所大学签有研究生转学协议，只要完成ESL-6级就可以直接进入研究生学位项目 (无须GRE，GMAT)
+入学时间点 每8周一个授课阶段，学生可以在每一个阶段的起始日期入学，方便学生尽快入学。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 05/15/2017 - 07/07/2017
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 07/10/2017 - 09/01/2017
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 09/05/2017 - 10/27/2017
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 10/30/2017 - 12/22/2017</description>
     </item>
     
     <item>
@@ -1189,65 +351,369 @@
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/esl/prerequest/</guid>
-      <description>
-
-&lt;h3 id=&#34;入学条件&#34;&gt;入学条件&lt;/h3&gt;
-
-&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 高中毕业，成绩良好者&lt;br&gt;
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&#34;color:darkorange&#34;&gt;➤&lt;/span&gt; 或者没有高中毕业证，但年满18岁并完成了高二课程&lt;br&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;学费&#34;&gt;学费&lt;/h3&gt;
-
-&lt;p&gt;升入社区大学需要ESL-5级。入学后测试水平以确定需要进入哪个级别开始课程。每16周为一个级别的学习。&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;时间&lt;/th&gt;
-&lt;th&gt;学费&lt;/th&gt;
-&lt;th&gt;说明&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;16周&lt;/td&gt;
-&lt;td&gt;$4480&lt;/td&gt;
-&lt;td&gt;每天 5 课时&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;杂费&#34;&gt;杂费&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;项目&lt;/th&gt;
-&lt;th&gt;收费&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;注册费&lt;/td&gt;
-&lt;td&gt;$95&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;学习材料&lt;/td&gt;
-&lt;td&gt;$15&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;教材（阅读和语法）&lt;/td&gt;
-&lt;td&gt;$80&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <description> 入学条件 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 高中毕业，成绩良好者
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 或者没有高中毕业证，但年满18岁并完成了高二课程
+学费 升入社区大学需要ESL-5级。入学后测试水平以确定需要进入哪个级别开始课程。每16周为一个级别的学习。
+   时间 学费 说明     16周 $4480 每天 5 课时    杂费    项目 收费     注册费 $95   学习材料 $15   教材（阅读和语法） $80    </description>
+    </item>
+    
+    <item>
+      <title>预科留学的步骤</title>
+      <link>https://www.studya.us/esl/steps/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/esl/steps/</guid>
+      <description>预科留学的步骤 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 报名 - 从这里开始
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 初审 - 经过学涯留学专员审核通过
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 由学校核发I-20，填写 I-901表格
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 安排住宿
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 订机票
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 办理签证
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 接机
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 入学
+签证需要的材料 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 入学申请表
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 护照信息（包括随行家人的护照）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 银行证明（根据学期要求，需每月$2500美元的存款证明）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 以上信息提供之后，会在3个工作日内寄出I-20
+有任何问题请加入微信 studya_us</description>
+    </item>
+    
+    <item>
+      <title>预科留学计划</title>
+      <link>https://www.studya.us/esl/programs/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/esl/programs/</guid>
+      <description>预科留学计划 在入学后要根据英语水平测试情况进入相应的班级 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第一级 开始发展学生在使用主要语言是英语的学术，工作或社会环境中表达自己的能力的过程
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第二级 继续发展学生用英语在学术，工作或社会环境中表达自己的能力
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第三级 提高学生在学术，工作或社会环境中清晰，充分地表达自己的能力
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第四级 强化学生用英语在学术，工作或社会环境中清楚和充分地表达自己的能力
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第五级 让学生在学习，工作或社会环境中掌握表达方式，其中使用的主要语言是英语
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第六级 目标是使学生掌握在学术，工作或社会环境中使用的主要语言是英语&amp;rdquo;
+再根据个人的愿望，进一步选择下列选项: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 什么时候入学社区大学
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 进入哪一所社区大学
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 什么时候进入4年制大学
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 进入哪一所大学
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 选什么专业方向</description>
+    </item>
+    
+    <item>
+      <title>预科留学 推荐学校</title>
+      <link>https://www.studya.us/esl/recommend/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/esl/recommend/</guid>
+      <description>语言学校： &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 太平洋国际语言学院 (Language Pacifica)
+社区学院： &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 贝尔维尤学院 (Bellevue College)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 埃德蒙社区大学 (Edmonds Community College)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Foothill College
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ De Anza College
+四年制大学： &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学戴维斯分校（UC Davis）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学圣地亚哥分校（UC San Diego）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 华盛顿州立大学（WSU）</description>
+    </item>
+    
+    <item>
+      <title>现在申请-预科留学</title>
+      <link>https://www.studya.us/esl/apply_esl/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/esl/apply_esl/</guid>
+      <description> 提交信息 我们将使用这些信息，帮助您协助评估、追踪进度、入学接待等事宜。您的信息将被严格保密！
+  window.onresize = resizeframe; window.onload = resizeframe; function resizeframe() { resizeIframeWidth(document.getElementById(&#39;ifm&#39;)); } function resizeIframeWidth(e){ e.width = (e.parentElement.scrollWidth) +&#39;px&#39;; }   </description>
+    </item>
+    
+    <item>
+      <title>学涯留学合作学校</title>
+      <link>https://www.studya.us/schools/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/schools/</guid>
+      <description>ESL预科：
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 太平洋国际语言学院 (Language Pacifica)
+社区学院:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 贝尔维尤学院 (Bellevue College)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 埃德蒙社区大学 (Edmonds Community College)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Foothill College
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ De Anza College
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Canada College
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ College of San Mateo
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Skyline College
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Walla Walla Community College
+四年制大学：
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学戴维斯分校（UC Davis）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学圣地亚哥分校（UC San Diego）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学美熹德分校（UC Merced）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学河滨分校（UC Riverside）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学尔湾分校（UC Irvine）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学圣塔克鲁兹分校（UC Santa Cruz）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学圣巴巴拉分校（UC Santa Barbara）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 华盛顿州立大学（WSU）
+研究生大学：
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际科技大学 (International Technological University)</description>
+    </item>
+    
+    <item>
+      <title>美国太平洋国际语言学院 (Language Pacifica)</title>
+      <link>https://www.studya.us/schools/school_lp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/schools/school_lp/</guid>
+      <description>推荐理由 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 经过近40年的发展,已经形成了一整套学生服务体系。从入学申请、颁发I-20、签證培训、赴美前培训、接机服务、 寄宿家庭安排服务、大学申请咨询、转学服务、入学前的选课服务和“大学桥梁课程”指导等,为来自世界各地的学子 们提供了周到的服务, 受到学生和家长的高度赞誉。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 完成Language Pacifica学校ESL-5级(无须托福、雅思、SAT等标準化英语考试)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生从LP转学到社区大学的同时,还可以收到学生选择的保读四年制大学的有条件录取通知书,只要达到GPA要求,即能确保学生两年後能转到自己心仪的大学。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 与LP签有保读项目的社区大学包括全美排名前10的Foothill College, DeAnza College, College of San Mateo, Walla Walla Community College等。经过两年的社区大学过度, 修满基础学分後, 学生可通过TAG项目(名校保读项目)升入本科大学, 完成最後两年的专业课程, 获得学士学位。程结束後, 学生还可选择转入全美其他州100多所高校。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 完成Language Pacifica学校ESL-5级(无须托福、雅思、SAT等标準化英语考试)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生从LP转学到社区大学的同时,还可以收到学生选择的保读四年制大学的有条件录取通知书,只要达到GPA要求,即能确保学生两年後能转到自己心仪的大学。
+学校名称 美国太平洋国际语言学院 (Language Pacifica)
+学校类别 ESL (ESL)
+学校介绍 美国太平洋国际语言学院创立於1979年，ESL课程教学已有超过37年历史。是20所本科和社区大学的双录取预科语言学校——是直升美国排名前50大学的最佳途径。
+学院位于斯坦福大学所在地,也是世界高新科技创新中心“硅谷”的发源地。此地区教育水平极高,治安良好,气候四季如春,被选为美国99个城市中生活环境最佳地区之一。距离旧金山约45分钟车程,与旧金山和圣何塞国际机场均只有25分钟车距,交通极为方便。
+每年旺季时都常有世界超过30个国家和地区的学生共聚一堂,学习英语,探讨文化。几十年来,已有近万名来自世界各地的学生通过太平洋语言学院实现了他们的美国梦。
+学生在此不仅能使自己的英语得到迅速的提高,升入理想的美国大学,交到世界各地的朋友,扩大自己的视野,还可以入住美国家庭,深入了解美国生活风土人情,为今后在美生活打下坚实的文化和人脉基础。
+特点 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 无须托福或雅思考试
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 两年基础课学习后再直接转入四年制大学
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 和西岸三州十多所社区大学签有直接升学协议
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 实行小班授课,学生可以得到悉心全面的照顾,教课老师均持有美国教育部认證的ESL教学證书。曾多次被世界著 名留学机构评为“美国西部最佳语言学校“
+录取条件 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 凡高中毕业,成绩良好者
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 或没有高中毕业证,但年满18岁并完成高二程
+申请及录取时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 每8周一个授课阶段，学生可以在每一个阶段的起始日期入学，2017年
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 1：2017年1月23日至2017年3月17日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2：2017年3月20日至2017年5月12日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 3：2017年5月15日至2017年7月7日</description>
+    </item>
+    
+    <item>
+      <title>贝尔维尤学院 (Bellevue College)</title>
+      <link>https://www.studya.us/schools/school_bc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/schools/school_bc/</guid>
+      <description>推荐理由 和四年制大学签有协议，从社区大学转入正规四年制大学比直接申请那所大学要容易很多。比如直接申请要求GPA3.3, 转入的只需2.4. 其次直接申请需要SAT/ACT成绩，而转入的则不需要，而且头两年每年学费还可以便宜15万人民币。
+学校名称 贝尔维尤学院 (Bellevue College)
+学校类别 社区学院 (College)
+学校介绍 Bellevue College (贝尔维尤学院）是美国华盛顿州34所社区学院和技术学院里最大的一所。所在城市Bellevue是一个安全，富有，多元，充满活力，工作机会很多的城市。开车15分钟就能达到西雅图市中心。紧邻微软，亚马逊，波音，星巴克，T-Mobile等大公司。说起Bellevue的多元，这里亚裔占到27.5%， 随处可见中餐，韩餐，日餐，泰餐等中国人喜欢的餐馆。
+特点 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ BC国际项目在全美排名前20！
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 有来自70个国家的1200多名国际学生和你一起努力学习！
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入华盛顿大学不要太容易！（华盛顿大学（UW）2017年USNews世界大学排名第11位,2017年世界大学学术排名(ARUW)第15名。）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 生活安全舒适方便
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 申请成功率很高
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 提供本科学位（如果你不想转到别的大学）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 提供校内工作机会
+录取条件 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ IBT TOEFL score of 61&amp;#43;, or PBT TOEFL score of 500&amp;#43;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 或者 An IELTS overall score of 6.0&amp;#43;, with all sub-scores of 5.5&amp;#43;. 如没有托福成绩，可以先来上ESL预科。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 财务证明 $24,700美金（6个月内的证明）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ $50申请费（不退还）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 年龄在16岁以上
+申请及录取时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年春季：1月15日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年夏季：4月15日</description>
+    </item>
+    
+    <item>
+      <title>埃德蒙社区大学 (Edmonds Community College)</title>
+      <link>https://www.studya.us/schools/school_ecc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/schools/school_ecc/</guid>
+      <description>推荐理由 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 有来自70个国家的1500多名国际学生的国际化校园！
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入华盛顿大学较容易！（华盛顿大学（UW）2017年USNews世界大学排名第11位，2017年世界大学学术排名(ARUW)第15名。）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 贴心的国际学生部让你有家的感觉 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 申请成功率很高 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转学成功率也高
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 生活费用低
+学校名称 埃德蒙社区大学 (Edmonds Community College)
+学校类别 社区大学 (College)
+学校介绍 Edmonds Community College (埃德蒙社区大学) 是一所成立于1967年的两年制公立大学，位于西雅图附近的Lynnwood。该学校提供语言培训，高中大学同修，副学士学位以及技术类培训课程。这所学校对国际学生非常友好，目前有来自70个国家的1500位国际学生来此就读。他们为国际学生安排寄宿家庭（学校亲自核查这些家庭的住宿情况确保符合卫生和安全条件），提供学业规划，一对一的转学指导以及免费课后辅导中心。
+录取条件 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 英语要求： 如没有托福成绩，可以先来上ESL预科。 如果申请人满足托福（总分72分，写作21分）和雅思（总分6.5分，单项6.0分)的成绩，则可以直接就读English101(大学必修英文写作）课程。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 申请人提供存款证明（不少于18496美金，存期至少6个月）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ $50申请费（不退还）
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 年龄在16岁以上
+申请及录取时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年春季
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年夏季
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年秋季
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2018年冬季
+学生分享 李柳霖：我叫李柳霖，来自广州。在哥哥的推荐下，我来到埃德蒙社区学院。我非常喜欢这里的气候，最重要的是，这里是一个非常安全的校园。在这里，我得到了我所需要的来自国际部的顾问和导师们的帮助，关心和支持。曾经厌学的我在来到埃德蒙社区学院之后竟也拥有了不错的成绩。埃德蒙社区学院让我重获新生，让我明白了只要愿意努力， 就可以改变自己的人生。</description>
+    </item>
+    
+    <item>
+      <title>招贤纳士</title>
+      <link>https://www.studya.us/recruit/</link>
+      <pubDate>Sat, 10 Dec 2016 20:10:46 +0100</pubDate>
+      
+      <guid>https://www.studya.us/recruit/</guid>
+      <description>招聘：文案／技术留学编辑 您喜欢写作吗？喜欢和别人分享所见所闻，并用您的经验回答仍在留学路上辛苦摸索的小伙伴们的疑问吗？
+欢迎加入我们的行列。
+我们是一群志同道合的华人，把美国真实有用的留学和实习信息介绍给在中国的朋友们，能让大家更好地利用美国的教育和实习资源，给自己一个机会，给别人一个机会。
+我们的服务不向学生收费，但我们会为您的劳作补偿。
+现在需要一些乐于在这方面展示自己能力的人才，为我们的公众平台撰写短文。
+希望通过这些短文可以让我们的朋友们以快速度、低学费、较容易的方式获得留学，提高工作技能，抓住机遇。
+如果您有兴趣，请加微信：studya_us，
+也可以访问我们的网页(网址：https://www.studya.us/recruit)，
+或者长按并识别以下二维码：
+如果你知道周围的朋友有兴趣，请帮助把以上信息转发给他们，谢谢！</description>
+    </item>
+    
+    <item>
+      <title>关于我们</title>
+      <link>https://www.studya.us/about/</link>
+      <pubDate>Thu, 08 Jun 2017 20:10:46 +0100</pubDate>
+      
+      <guid>https://www.studya.us/about/</guid>
+      <description>关于我们 我们是一群志同道合的华人，有志于通过架构中美桥梁，协调教育机会、减少科技能力势差、均衡资源合理分布，帮助优化职业规划，辅助技能发展，利用已有社会资源，推荐大家成为适于，利于，强于社会需要的人才。</description>
+    </item>
+    
+    <item>
+      <title>联系我们</title>
+      <link>https://www.studya.us/contact/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/contact/</guid>
+      <description>.form { padding:8pt;border:1px solid #e84e40;border-radius:8pt; display:table; width:100%; } .submit { margin-top: 4pt; padding: 2pt 18pt 2pt 18pt; background-color:#e84e40; color: white; } .formtext { border-bottom: 1px dotted red; display: table-cell; width:100%; } row { display: table-row; width:100%; } label { vertical-align: top; display: table-cell; width:60pt; }   姓名： 邮箱： 所在省市： 微信 ID： 留言：     --  长按并识别以下二维码，订阅&amp;rdquo;学涯留学&amp;rdquo;微信公众号，获得更多美国技术留学工作信息：
+ 长按并识别以下二维码，加我们的微信号&amp;rdquo;studya_us&amp;rdquo;，直接跟我们联系：
+  </description>
+    </item>
+    
+    <item>
+      <title>学涯留学平台计划</title>
+      <link>https://www.studya.us/plans/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/plans/</guid>
+      <description>推荐人计划 学涯（Studya）留学平台旨在推广&amp;rdquo;学•行&amp;ldquo;的留学理念，坚信“读书行路，相辅相成”。邀请各路豪杰共同努力，为国内想留学的年轻学生铺路搭桥，把好的国外学习资源介绍、推荐给他们。
+为鼓励推广，把&amp;rdquo;学•行&amp;rdquo;理念传播给莘莘学子，设此推荐人计划。如果您有朋友或者认识的人需要留学，把学涯 （Studya）留学平台介绍给他们，在帮助他们取得留学成功的同时，您也可以得到一笔不菲的奖励。
+详细情况</description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）留学平台 推荐人计划</title>
+      <link>https://www.studya.us/plans/referral/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/plans/referral/</guid>
+      <description>学涯 （Studya）留学平台旨在推广&amp;rdquo;学•行&amp;ldquo;的留学理念，坚信“读书行路，相辅相成”。邀请各路豪杰共同努力，为国内想留学的年轻学生铺路搭桥，把好的国外学习资源介绍、推荐给他们。
+为鼓励推广，把&amp;rdquo;学•行&amp;rdquo;理念传播给莘莘学子，设此推荐人计划。如果您有朋友或者认识的人需要留学，把 学涯 （Studya）留学平台 介绍给他们，在帮助他们取得留学成功的同时，您也可以得到一笔不菲的奖励。
+推荐人奖励 金额： 根据项目确定（不同项目有不同奖励额度）
+推荐人制度     直接推荐人 间接推荐人 三级推荐人     一级推荐 100% - -   二级推荐 80% 20% -   三级推荐 80% 16% 4%    举个例子  推荐人A为我们成功推荐一位学生B，那么推荐人A是直接推荐人，可以拿到奖励的100%；
+ 推荐人A推荐B给我们，B又推荐了同学C，C顺利申请到了理想的留学院校。那么推荐人A就是间接推荐人，可以拿到奖励的20%，B是直接推荐人，可以拿到奖励的80%；
+ 推荐人A推荐B给我们，B推荐了C，C成功推荐了同学D，D顺利申请到了理想的留学院校。那么这里推荐人A就是三级推荐人，可以拿到奖励的4%，B是间接推荐人，可以拿到奖励的16%，C是直接推荐人，可以拿到奖励的80%；
+  目前支持三级推荐人制度。
+具体推荐步骤  告知需要留学的朋友，您可以帮他们推荐留学咨询，作为他们的一个考虑选项；
+ 发送《学涯（Studya）留学信息登记表》给推荐的朋友；
+ 您的朋友填好留学信息登记表，同意我们留学咨询专家和他／她联系；
+ 我们的留学咨询专家会和您的朋友接触、进一步评估建议，提供咨询服务；
+ 您的朋友通过我们顺利申请到理想的学校后，您的账户上会出现一笔奖励点数；
+ 留学生顺利入学三个月后，您账户上的奖励点数即可提现；
+  现在申请</description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）推荐人申请</title>
+      <link>https://www.studya.us/plans/referral_form/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/plans/referral_form/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）申请人基本信息</title>
+      <link>https://www.studya.us/forms/personal/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/forms/personal/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）申请人申请信息</title>
+      <link>https://www.studya.us/forms/application/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/forms/application/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）申请人地址信息</title>
+      <link>https://www.studya.us/forms/address/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/forms/address/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）申请人材料信息</title>
+      <link>https://www.studya.us/forms/files/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/forms/files/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）留学评估信息登记表</title>
+      <link>https://www.studya.us/forms/evaluation/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/forms/evaluation/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>ESL预科留学 Level-1</title>
+      <link>https://www.studya.us/esl/level_1/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/esl/level_1/</guid>
+      <description>课程描述 目标是开始发展学生在使用主要语言是英语的学术，工作或社会环境中表达自己的能力的过程
+目标及方向 说：非常简单的话题，如介绍，方向，喜欢和不喜欢;简短，清晰，缓慢陈述简单的问题和回应
+读：学生使用1级教科书，使用约300个关键词。
+写：学生被教如何写句子。
+语法：动词介绍“是”和“有”，简单的现在，现在进行，名词作为主体和对象，介绍过去时
+课程要求 说：可以以简单的方式进行交流，但沟通完全依赖于较慢的语速，改写和修复的重复。可以询问和回答简单的问题，在紧急需要或非常熟悉的主题的领域启动和回应简单的陈述。
+读：一次可以理解简单，简单的单词，拾取熟悉的名字，单词和基本短语，并根据需要重读。
+写：可以写简单的隔离短语和句子。
+语法：在一个学习的曲目中只显示了一些简单的语法结构和句子模式的有限控制
+录取要求 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 高中毕业，成绩良好者
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 或者没有高中毕业证，但年满18岁并完成了高二课程
+申请时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 1: 1月23日 – 3月17日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 2: 3月20日 – 5月12日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 3: 5月15日 – 7月7日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 4: 7月10日 – 9月1日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 5: 9月5日 – 10月27日
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 6: 10月30日 – 12月22日
+学期和学费 16周 $4480
+现在申请</description>
+    </item>
+    
+    <item>
+      <title>技术留学新出路</title>
+      <link>https://www.studya.us/promotion/</link>
+      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/promotion/</guid>
+      <description>时间短：最快一年三个月取得硕士学位
+花钱少：全部学费：$19,800，杂费：$1706，保险费：$2235(可选)
+机会好：可以有长达3年的在美公司实习工作机会
+适合大学毕业，需要进一步提高理论和实践能力，有一定英语基础，想尽快在硅谷得到实习和工作机会的各类人员
+入学条件：GPA需2.75，托福72或雅思6.0 + 个人陈述
+每年有3次入学时间：1月，5月，9月
+本期名额：30人，先到先得
+咨询费用：2万人民币 (现在报名免费)
+免费截止日期：2017年8月31日
+试试看！即使您英语成绩不够好，GPA不够高，还是有很大机会可以录取，您的命运可能就此改变
+  .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]    还等什么，现在就加我们微信（&amp;rdquo;studya_us&amp;ldquo;）报名吧
+我们乐意帮助有意申请的学生达到目标！我们会帮您和学校直接联系，解决您的困难，我们已经协助不少人进入了学校。
+我们是一群志同道合的华人，有志于通过架构中美桥梁，协调教育机会、减少科技能力势差、均衡资源合理分布，帮助优化职业规划，辅助技能发展，利用已有社会资源，推荐大家成为适于，利于，强于社会需要的人才。
+专业介绍</description>
+    </item>
+    
+    <item>
+      <title>美国留学新闻</title>
+      <link>https://www.studya.us/news/</link>
+      <pubDate>Sat, 11 Mar 2017 19:55:00 +0100</pubDate>
+      
+      <guid>https://www.studya.us/news/</guid>
+      <description>敬请期待！</description>
     </item>
     
   </channel>

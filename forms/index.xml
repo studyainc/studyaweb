@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Forms on 学涯留学</title>
-    <link>https://www.studya.us/forms/index.xml</link>
+    <link>https://www.studya.us/forms/</link>
     <description>Recent content in Forms on 学涯留学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>版权所有 Studya.US</copyright>
     <lastBuildDate>Mon, 24 Apr 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.studya.us/forms/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.studya.us/forms/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>学涯（Studya）申请人基本信息</title>
@@ -16,11 +18,7 @@
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/forms/personal/</guid>
-      <description>&lt;div style=&#34;border:1px solid lightgrey;border-radius:5px;box-shadow:5px 5px 5px lightgrey;&#34;&gt;
-&lt;script src=&#34;https://jinshuju.net/f/GiuWGj/embedded.js?banner=hide&amp;background=white&#34;&gt;&lt;/script&gt;
-&lt;/div&gt;
-
-</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -29,11 +27,7 @@
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/forms/application/</guid>
-      <description>&lt;div style=&#34;border:1px solid lightgrey;border-radius:5px;box-shadow:5px 5px 5px lightgrey;&#34;&gt;
-&lt;script src=&#34;https://jinshuju.net/f/94fuFl/embedded.js?banner=hide&amp;background=white&#34;&gt;&lt;/script&gt;
-&lt;/div&gt;
-
-</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -42,11 +36,7 @@
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/forms/address/</guid>
-      <description>&lt;div style=&#34;border:1px solid lightgrey;border-radius:5px;box-shadow:5px 5px 5px lightgrey;&#34;&gt;
-&lt;script src=&#34;https://jinshuju.net/f/hOCumT/embedded.js?banner=hide&amp;background=white&#34;&gt;&lt;/script&gt;
-&lt;/div&gt;
-
-</description>
+      <description>  </description>
     </item>
     
     <item>
@@ -55,11 +45,16 @@
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/forms/files/</guid>
-      <description>&lt;div style=&#34;border:1px solid lightgrey;border-radius:5px;box-shadow:5px 5px 5px lightgrey;&#34;&gt;
-&lt;script src=&#34;https://jinshuju.net/f/JiwJZj/embedded.js?banner=hide&amp;background=white&#34;&gt;&lt;/script&gt;
-&lt;/div&gt;
-
-</description>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>学涯（Studya）留学评估信息登记表</title>
+      <link>https://www.studya.us/forms/evaluation/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/forms/evaluation/</guid>
+      <description>  </description>
     </item>
     
   </channel>
