@@ -143,13 +143,12 @@ ESL（English as a Second Language）就是英语非母语国家的学生需要�
     </item>
     
     <item>
-      <title>现在申请-预科留学</title>
+      <title>现在申请 预科留学</title>
       <link>https://www.studya.us/esl/apply_esl/</link>
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/esl/apply_esl/</guid>
-      <description> 提交信息 我们将使用这些信息，帮助您协助评估、追踪进度、入学接待等事宜。您的信息将被严格保密！
-  window.onresize = resizeframe; window.onload = resizeframe; function resizeframe() { resizeIframeWidth(document.getElementById(&#39;ifm&#39;)); } function resizeIframeWidth(e){ e.width = (e.parentElement.scrollWidth) +&#39;px&#39;; }   </description>
+      <description> 提交信息 我们需要您提供以下信息，帮助您提交申请、追踪申请进度、入学接待等事宜。您的信息将被严格保密！   </description>
     </item>
     
   </channel>

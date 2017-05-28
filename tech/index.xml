@@ -65,7 +65,7 @@
       <guid>https://www.studya.us/tech/prerequest/</guid>
       <description> 1、英语成绩 你需要托福或者雅思成绩。托福需要 72 分 左右，雅思 6.0 分。
 2、学习成绩 GPA 2.75分 以上，或者两封推荐信
-3、存款证明 需要提供大约 3.6万 美刀，约合 23.76万 人民币的存款证明。可以本人，也可以是担保。
+3、存款证明 需要提供大约 3.6万 美刀，约合 23.76万 人民币的存款证明。可以本人，也可以是亲友担保。
 4、强烈意愿 一切问题的解决都取决于想要解决的意愿，唤出你的最初的想法，想要走出国门去闯闯，跟我们联系吧，也许就有惊喜等着你！
  .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]  </description>
     </item>
@@ -269,6 +269,17 @@
     </item>
     
     <item>
+      <title>技术留学服务</title>
+      <link>https://www.studya.us/tech/services/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.studya.us/tech/services/</guid>
+      <description>技术留学服务 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术留学提供免费留学咨询，包括留学能力评估、文书指导、以及留学生活指导。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术留学返回 100 美元注册费。通过技术留学成功申请 ITU 后，在 Orientation日兑现 100 美元。
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 技术留学提供免费代理报名及其他咨询服务 - 详见辅助申请。</description>
+    </item>
+    
+    <item>
       <title>技术留学 推荐学校</title>
       <link>https://www.studya.us/tech/recommend/</link>
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
@@ -278,12 +289,12 @@
     </item>
     
     <item>
-      <title>现在申请-技术留学</title>
+      <title>现在申请 技术留学</title>
       <link>https://www.studya.us/tech/apply_tech/</link>
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.studya.us/tech/apply_tech/</guid>
-      <description> 直接申请 点击“现在申请”直接开始申请： ITU 国际科技大学 --  .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]  提交信息（我们帮助你申请） 我们将使用这些信息，帮助您协助申请、追踪进度、入学接待等事宜。您的信息将被严格保密！   </description>
+      <description> 申请表格 我们需要您提供以下信息，帮助您提交申请、追踪申请进度、入学接待等事宜。您的信息将被严格保密！   直接申请 点击“现在申请”直接在ITU网站申请： ITU 国际科技大学 --  .apply { margin: 10px; padding: 0 20px; text-align: center; text-decoration: none; font-weight: bold; font: Arial, sans-serif; font-size:larger; padding: 6px 20px 6px 20px; background: #e84e40; border-radius: 3px; box-shadow: #000000 0 2px 5px; }  [现在申请]  </description>
     </item>
     
   </channel>
