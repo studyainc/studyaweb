@@ -3,11 +3,6 @@
   
   <url>
     <loc>https://www.studya.us/</loc>
-    <lastmod>2017-05-29T19:56:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/tech/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -72,58 +67,6 @@
   </url>
   
   <url>
-    <loc>https://www.studya.us/esl/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/esl/advance/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/esl/prerequest/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/esl/steps/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/esl/programs/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/esl/recommend/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/esl/apply_esl/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/schools/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/schools/school_lp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/schools/school_bc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/schools/school_ecc/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.studya.us/recruit/</loc>
     <lastmod>2016-12-10T20:10:46+01:00</lastmod>
   </url>
@@ -179,11 +122,6 @@
   </url>
   
   <url>
-    <loc>https://www.studya.us/esl/level_1/</loc>
-    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.studya.us/promotion/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
   </url>
@@ -207,12 +145,6 @@
   <url>
     <loc>https://www.studya.us/contact/</loc>
     <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.studya.us/esl/</loc>
-    <lastmod>2017-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -247,12 +179,6 @@
   </url>
   
   <url>
-    <loc>https://www.studya.us/schools/</loc>
-    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.studya.us/tags/</loc>
     <priority>0</priority>
   </url>
@@ -265,7 +191,7 @@
   
   <url>
     <loc>https://www.studya.us/</loc>
-    <lastmod>2017-05-29T19:56:50+01:00</lastmod>
+    <lastmod>2017-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

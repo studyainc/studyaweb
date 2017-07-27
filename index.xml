@@ -1,47 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>学涯留学</title>
+    <title>美国技术留学</title>
     <link>https://www.studya.us/</link>
-    <description>Recent content on 学涯留学</description>
+    <description>Recent content on 美国技术留学</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>版权所有 Studya.US</copyright>
-    <lastBuildDate>Mon, 29 May 2017 19:56:50 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.studya.us/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>学涯留学</title>
-      <link>https://www.studya.us/</link>
-      <pubDate>Mon, 29 May 2017 19:56:50 +0100</pubDate>
-      
-      <guid>https://www.studya.us/</guid>
-      <description>留学途径 学涯留学是一家在美国的留学咨询技术公司，致力于让中国国内普通家庭的孩子也能有机会享受在美国的教育资源。
-我们会尽力寻找并推荐一些质量高、性价比高的学校给大家，从初来乍到适应生活的英语预科，价格低廉又容易入学的社区学院，适合转学比较有名的大学，以及经济实用的硕士研究生院校。
-美国的教育渠道繁多，一般人只知道美国有名大学众多，入学不易，价格也很高，但不知其中有很多途径是可以相对容易的达到同样的目标。
-例如，要上类似于加州戴维斯（UC Davis）这样的名校，不仅要有托福，SAT等考试，录取率很低，还要有一笔价格不菲的学费和其它费用。这对一般的家庭和学生是不容易做到的。
-但如果先上一个英语预科，只要稍有一点英语基础的高中生都可以入学，不需要任何英语或其他考试。可选择居住在附近的居民家庭，既提高英语交流能力，也有机会逐步熟悉美国的生活环境，为将来更好地生活打好基础。
-在经过一段时间的英语学习，达到熟练使用英语的程度后，可以自然的升到社区学院（预科学校和社区学院之间有升学协议）而不需特别考试，在社区学院学习两年的通用基础课程后，再顺次转到4年制大学。
-同样是学习基础课，社区学院的学费只是4年制大学学费的四分之一左右，这样，仅两年的学费可以省下几十万人民币。不少社区学院和4年制大学有转学协议，可以在入学社区学院时就得到大学的有条件录取。
-在4年制大学继续后两年的专业课程，完成学士学位。花了同样的时间，只是大学的前两年在社区学院，后两年在4年制大学。同样在4年的时间拿到了名牌大学的学位，还能节省几十万，入学也不费劲，这样的途径，对于一个肯学习的孩子，是不是既容易，又便宜，结果还不差!
-学涯留学 学涯留学提供ESL预科留学和技术留学咨询服务。ESL预科留学提供给高中阶段留学生一个选择，帮助高中留学学生提供语言培训和寄宿制学习，以顺利进入理想的大学。技术留学是一种实用性质的留学方式，我们通过与硅谷科技高校合作，给大家提供在美国技术留学，实习工作的机会。
-             预科留学／转社区大学 社区大学／转四年制大学       四年制大学／获得本科学历 技术留学／获得研究生学历        预科留学 预科留学指在进入正式大学课程之前，为英语非母语的学生进行一段时间的预备性英语学习。以便可以在语言，学习方法，基础知识文化生活等方面适应美国大学的学习生活，保证顺利的进行大学期间的学习。
-ESL（English as a Second Language）就是英语非母语国家的学生需要的语言准备。
-我们这里提供的ESL预科留学，是采取了“双录取”，即在录取上ESL预科的同时，可从特定的名单中选择一个大学，获得同时录取。在达到一定的英语成绩要求后，转学到选择的大学上学。
-出国读预科，可与其他国家学生交流，生活环境也是全英文，亦可选择入住美国本地家庭，全面了解美国文化。其效果在升本科之后还是比较明显的，学生普遍比较自信和熟练。
-技术留学 技术留学是一种实用性质的留学方式。和传统的留学方式不同，技术留学兼顾学习最新实用知识和参与于所学专业匹配的工作。
-通过合理安排学习时间，最大可能的把所学的科学技术知识应用到相应的工作中。传统的留学方式，注重理论知识的学习，通常占用较长时间进行理论学习。
-实用技术留学则注重把学习到的最新科学技术知识应用于实践。</description>
-    </item>
-    
-    <item>
       <title>什么是技术留学</title>
-      <link>https://www.studya.us/tech/</link>
+      <link>https://www.studya.us/</link>
       <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.studya.us/tech/</guid>
+      <guid>https://www.studya.us/</guid>
       <description> 什么是技术留学 技术留学是一种实用性质的留学方式。和传统的留学方式不同，技术留学兼顾学习最新实用知识和参与于所学专业匹配的工作。通过合理安排学习时间，最大可能的把所学的科学技术知识应用到相应的工作中。传统的留学方式，注重理论知识的学习，通常占用较长时间进行理论学习。实用技术留学则注重把学习到的最新科学技术知识应用于实践。
 在信息科技领域，美国以无可匹敌的实力和压倒性的技术优势雄踞世界之首。全球十大科技顶尖公司，美国占据了八家！英特尔和高通向全世界提供芯片，微软和甲骨文占据了软件业的基础市场（从百度到腾讯再到中国各个政府部门，都使用甲骨文提供的数据库软件和技术）。美国拥有全球顶尖的实验室&amp;hellip;&amp;hellip;
 我们通过与硅谷科技高校合作，把领先的信息科技领域知识传授给学生，在学习到最新高科技行业知识，拿到国际认可的硕士、博士学历和学位的同时，积累高科技行业的实习、工作实践经验。学生可以在美国技术留学中参与学习知识的同时，申请周边高科技、创业公司的实习或者工作。进而转为高科技工作签证，选择申请高科技职业技术移民 &amp;hellip;
@@ -322,228 +298,6 @@ ESL（English as a Second Language）就是英语非母语国家的学生需要�
     </item>
     
     <item>
-      <title>什么是预科留学</title>
-      <link>https://www.studya.us/esl/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/esl/</guid>
-      <description>预科留学指在进入正式大学课程之前，为英语非母语的学生进行一段时间的预备性英语学习。以便可以在语言，学习方法，基础知识文化生活等方面适应美国大学的学习生活，保证顺利的进行大学期间的学习。
-ESL（English as a Second Language）就是英语非母语国家的学生需要的语言准备。
-我们这里提供的ESL预科留学，是采取了“双录取”，即在录取上ESL预科的同时，可从特定的名单中选择一个大学，获得同时录取。在达到一定的英语成绩要求后，转学到选择的大学上学。
-出国读预科，可与其他国家学生交流，生活环境也是全英文，亦可选择入住美国本地家庭，全面了解美国文化。其效果在升本科之后还是比较明显的，学生普遍比较自信和熟练。</description>
-    </item>
-    
-    <item>
-      <title>预科留学的优势</title>
-      <link>https://www.studya.us/esl/advance/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/esl/advance/</guid>
-      <description>预科留学的特色 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 是美国移民局授权可签发I-20学生签证的语言学校
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 是美国教育部认证机构CEA认证的全日制语言学校
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 师资雄厚，小班授课，教师均有ESL证书
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生在读语言期间就可以选择大学学分课程，保证转入社区大学后能取得高GPA，为两年后再转入4年制大学做好充分准备
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学校和美国西岸三州十余所社区大学签有直接升学协议
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生无须托福、雅思等英语考试，只要在英语预科五级就可以转入社区大学
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 通过两年社区大学学完基础课程后再直接转入四年制大学继续后两年的专业学习，取得大学学士学位
-双录取和转学保证 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生转到社区大学的同时，可以收到学生选择的保读四年制大学的有条件录取通知书，只要达到GPA要求，即能确保转到自己心仪的大学（提供免费转学服务）
-四年制大学保读和保研 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 提供四年制大学的保读项目，学生只需高中毕业并完成ESL-5级，就可以直接转入于语言学校签有保读转学合同的大学 (无须托福,雅思，SAT)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 和5所大学签有研究生转学协议，只要完成ESL-6级就可以直接进入研究生学位项目 (无须GRE，GMAT)
-入学时间点 每8周一个授课阶段，学生可以在每一个阶段的起始日期入学，方便学生尽快入学。
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 05/15/2017 - 07/07/2017
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 07/10/2017 - 09/01/2017
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 09/05/2017 - 10/27/2017
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 10/30/2017 - 12/22/2017</description>
-    </item>
-    
-    <item>
-      <title>预科留学需要的条件和费用</title>
-      <link>https://www.studya.us/esl/prerequest/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/esl/prerequest/</guid>
-      <description> 入学条件 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 高中毕业，成绩良好者
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 或者没有高中毕业证，但年满18岁并完成了高二课程
-学费 升入社区大学需要ESL-5级。入学后测试水平以确定需要进入哪个级别开始课程。每16周为一个级别的学习。
-   时间 学费 说明     16周 $4480 每天 5 课时    杂费    项目 收费     注册费 $95   学习材料 $15   教材（阅读和语法） $80    </description>
-    </item>
-    
-    <item>
-      <title>预科留学的步骤</title>
-      <link>https://www.studya.us/esl/steps/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/esl/steps/</guid>
-      <description>预科留学的步骤 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 报名 - 从这里开始
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 初审 - 经过学涯留学专员审核通过
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 由学校核发I-20，填写 I-901表格
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 安排住宿
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 订机票
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 办理签证
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 接机
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 入学
-签证需要的材料 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 入学申请表
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 护照信息（包括随行家人的护照）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 银行证明（根据学期要求，需每月$2500美元的存款证明）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 以上信息提供之后，会在3个工作日内寄出I-20
-有任何问题请加入微信 studya_us</description>
-    </item>
-    
-    <item>
-      <title>预科留学项目</title>
-      <link>https://www.studya.us/esl/programs/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/esl/programs/</guid>
-      <description>预科留学项目 在入学后要根据英语水平测试情况进入相应的班级 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第一级 开始发展学生在使用主要语言是英语的学术，工作或社会环境中表达自己的能力的过程
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第二级 继续发展学生用英语在学术，工作或社会环境中表达自己的能力
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第三级 提高学生在学术，工作或社会环境中清晰，充分地表达自己的能力
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第四级 强化学生用英语在学术，工作或社会环境中清楚和充分地表达自己的能力
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第五级 让学生在学习，工作或社会环境中掌握表达方式，其中使用的主要语言是英语
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 第六级 目标是使学生掌握在学术，工作或社会环境中使用的主要语言是英语&amp;rdquo;
-再根据个人的愿望，进一步选择下列选项: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 什么时候入学社区大学
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 进入哪一所社区大学
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 什么时候进入4年制大学
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 进入哪一所大学
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 选什么专业方向</description>
-    </item>
-    
-    <item>
-      <title>预科留学 推荐学校</title>
-      <link>https://www.studya.us/esl/recommend/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/esl/recommend/</guid>
-      <description>语言学校： &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 太平洋国际语言学院 (Language Pacifica)
-社区学院： &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 贝尔维尤学院 (Bellevue College)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 埃德蒙社区大学 (Edmonds Community College)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Foothill College
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ De Anza College
-四年制大学： &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学戴维斯分校（UC Davis）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学圣地亚哥分校（UC San Diego）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 华盛顿州立大学（WSU）</description>
-    </item>
-    
-    <item>
-      <title>现在申请 预科留学</title>
-      <link>https://www.studya.us/esl/apply_esl/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/esl/apply_esl/</guid>
-      <description> 提交信息 我们需要您提供以下信息，帮助您提交申请、追踪申请进度、入学接待等事宜。您的信息将被严格保密！   </description>
-    </item>
-    
-    <item>
-      <title>学涯留学合作学校</title>
-      <link>https://www.studya.us/schools/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/schools/</guid>
-      <description>ESL预科：
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 太平洋国际语言学院 (Language Pacifica)
-社区学院:
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 贝尔维尤学院 (Bellevue College)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 埃德蒙社区大学 (Edmonds Community College)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Foothill College
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ De Anza College
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Canada College
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ College of San Mateo
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Skyline College
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ Walla Walla Community College
-四年制大学：
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学戴维斯分校（UC Davis）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学圣地亚哥分校（UC San Diego）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学美熹德分校（UC Merced）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学河滨分校（UC Riverside）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学尔湾分校（UC Irvine）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学圣塔克鲁兹分校（UC Santa Cruz）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 加州大学圣巴巴拉分校（UC Santa Barbara）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 华盛顿州立大学（WSU）
-研究生大学：
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 国际科技大学 (International Technological University)</description>
-    </item>
-    
-    <item>
-      <title>美国太平洋国际语言学院 (Language Pacifica)</title>
-      <link>https://www.studya.us/schools/school_lp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/schools/school_lp/</guid>
-      <description>推荐理由 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 经过近40年的发展,已经形成了一整套学生服务体系。从入学申请、颁发I-20、签證培训、赴美前培训、接机服务、 寄宿家庭安排服务、大学申请咨询、转学服务、入学前的选课服务和“大学桥梁课程”指导等,为来自世界各地的学子 们提供了周到的服务, 受到学生和家长的高度赞誉。
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 完成Language Pacifica学校ESL-5级(无须托福、雅思、SAT等标準化英语考试)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生从LP转学到社区大学的同时,还可以收到学生选择的保读四年制大学的有条件录取通知书,只要达到GPA要求,即能确保学生两年後能转到自己心仪的大学。
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 与LP签有保读项目的社区大学包括全美排名前10的Foothill College, DeAnza College, College of San Mateo, Walla Walla Community College等。经过两年的社区大学过度, 修满基础学分後, 学生可通过TAG项目(名校保读项目)升入本科大学, 完成最後两年的专业课程, 获得学士学位。程结束後, 学生还可选择转入全美其他州100多所高校。
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 完成Language Pacifica学校ESL-5级(无须托福、雅思、SAT等标準化英语考试)
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 学生从LP转学到社区大学的同时,还可以收到学生选择的保读四年制大学的有条件录取通知书,只要达到GPA要求,即能确保学生两年後能转到自己心仪的大学。
-学校名称 美国太平洋国际语言学院 (Language Pacifica)
-学校类别 ESL (ESL)
-学校介绍 美国太平洋国际语言学院创立於1979年，ESL课程教学已有超过37年历史。是20所本科和社区大学的双录取预科语言学校——是直升美国排名前50大学的最佳途径。
-学院位于斯坦福大学所在地,也是世界高新科技创新中心“硅谷”的发源地。此地区教育水平极高,治安良好,气候四季如春,被选为美国99个城市中生活环境最佳地区之一。距离旧金山约45分钟车程,与旧金山和圣何塞国际机场均只有25分钟车距,交通极为方便。
-每年旺季时都常有世界超过30个国家和地区的学生共聚一堂,学习英语,探讨文化。几十年来,已有近万名来自世界各地的学生通过太平洋语言学院实现了他们的美国梦。
-学生在此不仅能使自己的英语得到迅速的提高,升入理想的美国大学,交到世界各地的朋友,扩大自己的视野,还可以入住美国家庭,深入了解美国生活风土人情,为今后在美生活打下坚实的文化和人脉基础。
-特点 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 无须托福或雅思考试
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 两年基础课学习后再直接转入四年制大学
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 和西岸三州十多所社区大学签有直接升学协议
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 实行小班授课,学生可以得到悉心全面的照顾,教课老师均持有美国教育部认證的ESL教学證书。曾多次被世界著 名留学机构评为“美国西部最佳语言学校“
-录取条件 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 凡高中毕业,成绩良好者
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 或没有高中毕业证,但年满18岁并完成高二程
-申请及录取时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 每8周一个授课阶段，学生可以在每一个阶段的起始日期入学，2017年
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 1：2017年1月23日至2017年3月17日
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2：2017年3月20日至2017年5月12日
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 3：2017年5月15日至2017年7月7日</description>
-    </item>
-    
-    <item>
-      <title>贝尔维尤学院 (Bellevue College)</title>
-      <link>https://www.studya.us/schools/school_bc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/schools/school_bc/</guid>
-      <description>推荐理由 和四年制大学签有协议，从社区大学转入正规四年制大学比直接申请那所大学要容易很多。比如直接申请要求GPA3.3, 转入的只需2.4. 其次直接申请需要SAT/ACT成绩，而转入的则不需要，而且头两年每年学费还可以便宜15万人民币。
-学校名称 贝尔维尤学院 (Bellevue College)
-学校类别 社区学院 (College)
-学校介绍 Bellevue College (贝尔维尤学院）是美国华盛顿州34所社区学院和技术学院里最大的一所。所在城市Bellevue是一个安全，富有，多元，充满活力，工作机会很多的城市。开车15分钟就能达到西雅图市中心。紧邻微软，亚马逊，波音，星巴克，T-Mobile等大公司。说起Bellevue的多元，这里亚裔占到27.5%， 随处可见中餐，韩餐，日餐，泰餐等中国人喜欢的餐馆。
-特点 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ BC国际项目在全美排名前20！
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 有来自70个国家的1200多名国际学生和你一起努力学习！
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入华盛顿大学不要太容易！（华盛顿大学（UW）2017年USNews世界大学排名第11位,2017年世界大学学术排名(ARUW)第15名。）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 生活安全舒适方便
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 申请成功率很高
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 提供本科学位（如果你不想转到别的大学）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 提供校内工作机会
-录取条件 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ IBT TOEFL score of 61&amp;#43;, or PBT TOEFL score of 500&amp;#43;
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 或者 An IELTS overall score of 6.0&amp;#43;, with all sub-scores of 5.5&amp;#43;. 如没有托福成绩，可以先来上ESL预科。
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 财务证明 $24,700美金（6个月内的证明）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ $50申请费（不退还）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 年龄在16岁以上
-申请及录取时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年春季：1月15日
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年夏季：4月15日</description>
-    </item>
-    
-    <item>
-      <title>埃德蒙社区大学 (Edmonds Community College)</title>
-      <link>https://www.studya.us/schools/school_ecc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/schools/school_ecc/</guid>
-      <description>推荐理由 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 有来自70个国家的1500多名国际学生的国际化校园！
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转入华盛顿大学较容易！（华盛顿大学（UW）2017年USNews世界大学排名第11位，2017年世界大学学术排名(ARUW)第15名。）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 贴心的国际学生部让你有家的感觉 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 申请成功率很高 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 转学成功率也高
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 生活费用低
-学校名称 埃德蒙社区大学 (Edmonds Community College)
-学校类别 社区大学 (College)
-学校介绍 Edmonds Community College (埃德蒙社区大学) 是一所成立于1967年的两年制公立大学，位于西雅图附近的Lynnwood。该学校提供语言培训，高中大学同修，副学士学位以及技术类培训课程。这所学校对国际学生非常友好，目前有来自70个国家的1500位国际学生来此就读。他们为国际学生安排寄宿家庭（学校亲自核查这些家庭的住宿情况确保符合卫生和安全条件），提供学业规划，一对一的转学指导以及免费课后辅导中心。
-录取条件 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 英语要求： 如没有托福成绩，可以先来上ESL预科。 如果申请人满足托福（总分72分，写作21分）和雅思（总分6.5分，单项6.0分)的成绩，则可以直接就读English101(大学必修英文写作）课程。
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 申请人提供存款证明（不少于18496美金，存期至少6个月）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ $50申请费（不退还）
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 年龄在16岁以上
-申请及录取时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年春季
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年夏季
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2017年秋季
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 2018年冬季
-学生分享 李柳霖：我叫李柳霖，来自广州。在哥哥的推荐下，我来到埃德蒙社区学院。我非常喜欢这里的气候，最重要的是，这里是一个非常安全的校园。在这里，我得到了我所需要的来自国际部的顾问和导师们的帮助，关心和支持。曾经厌学的我在来到埃德蒙社区学院之后竟也拥有了不错的成绩。埃德蒙社区学院让我重获新生，让我明白了只要愿意努力， 就可以改变自己的人生。</description>
-    </item>
-    
-    <item>
       <title>招贤纳士</title>
       <link>https://www.studya.us/recruit/</link>
       <pubDate>Sat, 10 Dec 2016 20:10:46 +0100</pubDate>
@@ -666,33 +420,6 @@ ESL（English as a Second Language）就是英语非母语国家的学生需要�
       
       <guid>https://www.studya.us/forms/evaluation/</guid>
       <description>  </description>
-    </item>
-    
-    <item>
-      <title>ESL预科留学 Level-1</title>
-      <link>https://www.studya.us/esl/level_1/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.studya.us/esl/level_1/</guid>
-      <description>课程描述 目标是开始发展学生在使用主要语言是英语的学术，工作或社会环境中表达自己的能力的过程
-目标及方向 说：非常简单的话题，如介绍，方向，喜欢和不喜欢;简短，清晰，缓慢陈述简单的问题和回应
-读：学生使用1级教科书，使用约300个关键词。
-写：学生被教如何写句子。
-语法：动词介绍“是”和“有”，简单的现在，现在进行，名词作为主体和对象，介绍过去时
-课程要求 说：可以以简单的方式进行交流，但沟通完全依赖于较慢的语速，改写和修复的重复。可以询问和回答简单的问题，在紧急需要或非常熟悉的主题的领域启动和回应简单的陈述。
-读：一次可以理解简单，简单的单词，拾取熟悉的名字，单词和基本短语，并根据需要重读。
-写：可以写简单的隔离短语和句子。
-语法：在一个学习的曲目中只显示了一些简单的语法结构和句子模式的有限控制
-录取要求 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 高中毕业，成绩良好者
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 或者没有高中毕业证，但年满18岁并完成了高二课程
-申请时间 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 1: 1月23日 – 3月17日
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 2: 3月20日 – 5月12日
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 3: 5月15日 – 7月7日
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 4: 7月10日 – 9月1日
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 5: 9月5日 – 10月27日
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;➤ 时段 6: 10月30日 – 12月22日
-学期和学费 16周 $4480
-现在申请</description>
     </item>
     
     <item>
